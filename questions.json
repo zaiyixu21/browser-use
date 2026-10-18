@@ -1,0 +1,7524 @@
+[
+  {
+    "id": "1-001",
+    "source": {
+      "sheet": "资料1",
+      "row": 1
+    },
+    "originalPrompt": "职业道德的主要内容包括（ ）。",
+    "prompt": "职业道德的主要内容包括（ ）。",
+    "category": "职业道德",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "爱岗敬业、诚实守信、办事公道、服务群众、奉献社会",
+        "letter": "C"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "职业道德五项要求是爱岗敬业、诚实守信、办事公道、服务群众、奉献社会。",
+    "options": [
+      "爱国守法、明礼诚信、团结友善",
+      "自由、平等、公正、法治",
+      "爱岗敬业、诚实守信、办事公道、服务群众、奉献社会",
+      "爱国、敬业、诚信、友善"
+    ],
+    "answers": [
+      2
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-002",
+    "source": {
+      "sheet": "资料1",
+      "row": 2
+    },
+    "originalPrompt": "（ ）不是职业道德的主要内容。",
+    "prompt": "（ ）不是职业道德的主要内容。",
+    "category": "职业道德",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "爱国守法",
+        "letter": "B"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "爱国守法属于公民基本道德规范，题目考查职业道德五项主要内容。",
+    "options": [
+      "爱岗敬业",
+      "办事公道",
+      "诚实守信",
+      "爱国守法"
+    ],
+    "answers": [
+      3
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-003",
+    "source": {
+      "sheet": "资料1",
+      "row": 3
+    },
+    "originalPrompt": "职业道德的主要内容有爱岗敬业、诚实守信、办事公道、（ ）、奉献社会。",
+    "prompt": "职业道德的主要内容有爱岗敬业、诚实守信、办事公道、（ ）、奉献社会。",
+    "category": "职业道德",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "服务群众",
+        "letter": "D"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "“服务群众”强调以服务对象的需求为中心。",
+    "options": [
+      "勤俭自强",
+      "服务群众",
+      "团结友善",
+      "明礼诚信"
+    ],
+    "answers": [
+      1
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-004",
+    "source": {
+      "sheet": "资料1",
+      "row": 4
+    },
+    "originalPrompt": "职业道德的基本内容有忠于职守，乐于奉献；实事求是，不弄虚作假；（ ）、（ ）。",
+    "prompt": "职业道德的基本内容有忠于职守，乐于奉献；实事求是，不弄虚作假；（ ）、（ ）。",
+    "category": "职业道德",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "依法行事，严守秘密；公正透明，服务社会",
+        "letter": "C"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "依法履职、保守秘密与公正透明均是职业行为的重要约束。",
+    "options": [
+      "只对个人利益负责",
+      "放弃监督，优先效率",
+      "随意公开秘密，方便交流",
+      "依法行事，严守秘密；公正透明，服务社会"
+    ],
+    "answers": [
+      3
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-005",
+    "source": {
+      "sheet": "资料1",
+      "row": 5
+    },
+    "originalPrompt": "下面哪种原器件的计算机运算速度最慢（）。",
+    "prompt": "下面哪种原器件的计算机运算速度最慢（）。",
+    "category": "系统与基础",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "电子管时代",
+        "letter": "A"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "在传统计算机代际比较中，电子管体积大、功耗高，速度较低。",
+    "options": [
+      "大规模集成电路时代",
+      "中小规模集成电路时代",
+      "电子管时代",
+      "晶体管时代"
+    ],
+    "answers": [
+      2
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-006",
+    "source": {
+      "sheet": "资料1",
+      "row": 6
+    },
+    "originalPrompt": "下面哪种原器件的计算机运算速度最快（）。",
+    "prompt": "下面哪种原器件的计算机运算速度最快（）。",
+    "category": "系统与基础",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "大规模的集成电路",
+        "letter": "C"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "大规模集成电路提高集成度，构成现代高性能处理器的基础。",
+    "options": [
+      "电子管",
+      "大规模的集成电路",
+      "晶体管",
+      "中小规模集成电路"
+    ],
+    "answers": [
+      1
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-007",
+    "source": {
+      "sheet": "资料1",
+      "row": 7
+    },
+    "originalPrompt": "下面不属于输入设备的是（）。",
+    "prompt": "下面不属于输入设备的是（）。",
+    "category": "系统与基础",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "显示器",
+        "letter": "C"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "显示器输出图像；键盘、鼠标、扫描仪向计算机输入信息。",
+    "options": [
+      "鼠标",
+      "显示器",
+      "扫描仪",
+      "键盘"
+    ],
+    "answers": [
+      1
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-008",
+    "source": {
+      "sheet": "资料1",
+      "row": 8
+    },
+    "originalPrompt": "下面不属于输出设备的是（）。",
+    "prompt": "下面不属于输出设备的是（）。",
+    "category": "系统与基础",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "扫描仪",
+        "letter": "D"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "扫描仪把图像转换为输入数据，其他选项是输出设备。",
+    "options": [
+      "显示器",
+      "打印机",
+      "扬声器",
+      "扫描仪"
+    ],
+    "answers": [
+      3
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-009",
+    "source": {
+      "sheet": "资料1",
+      "row": 9
+    },
+    "originalPrompt": "CPU硬件不包括（）。",
+    "prompt": "CPU硬件不包括（）。",
+    "category": "系统与基础",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "编码器",
+        "letter": "B"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "CPU主要包含运算、控制和寄存器部件，“编码器”不是此处的基本组成。",
+    "options": [
+      "运算器",
+      "控制器",
+      "寄存器",
+      "编码器"
+    ],
+    "answers": [
+      3
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-010",
+    "source": {
+      "sheet": "资料1",
+      "row": 10
+    },
+    "originalPrompt": "网络安全的保密性是指（）。",
+    "prompt": "网络安全的保密性是指（）。",
+    "category": "密码与认证",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "信息不泄露给非授权用户和实体的特性",
+        "letter": "A"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "保密性限制非授权访问；完整性关注篡改，可用性关注访问。",
+    "options": [
+      "确保服务按需可用",
+      "确保信息不被篡改",
+      "信息不泄露给非授权用户和实体的特性",
+      "确保用户无法否认操作"
+    ],
+    "answers": [
+      2
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-011",
+    "source": {
+      "sheet": "资料1",
+      "row": 11
+    },
+    "originalPrompt": "网络安全的完整性是指（）。",
+    "prompt": "网络安全的完整性是指（）。",
+    "category": "密码与认证",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "信息在传输的过程不被修改、破坏的特性",
+        "letter": "B"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "完整性关注信息在存储、处理及传输中不被未经授权修改或破坏。",
+    "options": [
+      "只有授权主体可以读取信息",
+      "无法否认已完成的操作",
+      "信息在传输的过程不被修改、破坏的特性",
+      "任何时刻都能访问服务"
+    ],
+    "answers": [
+      2
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-012",
+    "source": {
+      "sheet": "资料1",
+      "row": 12
+    },
+    "originalPrompt": "网络安全的可用性是指（）。",
+    "prompt": "网络安全的可用性是指（）。",
+    "category": "密码与认证",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "信息受权实体按要求访问、正常使用",
+        "letter": "D"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "可用性强调授权实体在需要时能正常获得服务和数据。",
+    "options": [
+      "信息内容不会被修改",
+      "信息不会被泄露",
+      "信息能够公开给任何人",
+      "信息受权实体按要求访问、正常使用"
+    ],
+    "answers": [
+      3
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-013",
+    "source": {
+      "sheet": "资料1",
+      "row": 13
+    },
+    "originalPrompt": "PPDR安全模型中D指的是（）。",
+    "prompt": "PPDR安全模型中D指的是（）。",
+    "category": "系统与基础",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "检测",
+        "letter": "A"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "PPDR由策略Policy、防护Protection、检测Detection、响应Response组成。",
+    "options": [
+      "检测",
+      "策略",
+      "防护",
+      "响应"
+    ],
+    "answers": [
+      0
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-014",
+    "source": {
+      "sheet": "资料1",
+      "row": 14
+    },
+    "originalPrompt": "常用的网络安全模型不包括（）。",
+    "prompt": "常用的网络安全模型不包括（）。",
+    "category": "系统与基础",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "MDRR",
+        "letter": "D"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "原资料列出的常见模型为PPDR、PDRR、MPDRR；MDRR不在该组内。",
+    "options": [
+      "MDRR",
+      "MPDRR",
+      "PPDR",
+      "PDRR"
+    ],
+    "answers": [
+      0
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-015",
+    "source": {
+      "sheet": "资料1",
+      "row": 15
+    },
+    "originalPrompt": "不属于密码学的作用是（）。",
+    "prompt": "不属于密码学的作用是（）。",
+    "category": "密码与认证",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "信息压缩",
+        "letter": "A"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "密码学提供加密、认证、完整性和签名等能力；信息压缩属于另一类技术。",
+    "options": [
+      "完整性保护",
+      "保密性保护",
+      "身份认证",
+      "信息压缩"
+    ],
+    "answers": [
+      3
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-016",
+    "source": {
+      "sheet": "资料1",
+      "row": 16
+    },
+    "originalPrompt": "下列关于密码说法不正确的是（）。",
+    "prompt": "下列关于密码说法不正确的是（）。",
+    "category": "系统与基础",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "密文是有意义的数据",
+        "letter": "D"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "密文是加密后的表示，无法按明文含义直接解读；并非说密文没有任何结构。",
+    "options": [
+      "密文是有意义的数据",
+      "密钥控制加密变换",
+      "密文由明文加密得到",
+      "明文是加密前的数据"
+    ],
+    "answers": [
+      0
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-017",
+    "source": {
+      "sheet": "资料1",
+      "row": 17
+    },
+    "originalPrompt": "完成不同网段数据包转发的设备是（）。",
+    "prompt": "完成不同网段数据包转发的设备是（）。",
+    "category": "系统与基础",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "路由器",
+        "letter": "A"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "路由器依据目的IP和路由表在不同网络之间转发数据包。",
+    "options": [
+      "中继器",
+      "路由器",
+      "集线器",
+      "网卡"
+    ],
+    "answers": [
+      1
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-018",
+    "source": {
+      "sheet": "资料1",
+      "row": 18
+    },
+    "originalPrompt": "下面设备的所有端口属于同一个冲突域的设备是（）。",
+    "prompt": "下面设备的所有端口属于同一个冲突域的设备是（）。",
+    "category": "网络设备",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "集线器",
+        "letter": "B"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "集线器共享介质，所有端口在同一冲突域；交换机通常每端口划分冲突域。",
+    "options": [
+      "交换机的所有端口",
+      "防火墙的所有接口",
+      "路由器的不同接口",
+      "集线器"
+    ],
+    "answers": [
+      3
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-019",
+    "source": {
+      "sheet": "资料1",
+      "row": 19
+    },
+    "originalPrompt": "下面关于交换机堆叠说法错误的是（）。",
+    "prompt": "下面关于交换机堆叠说法错误的是（）。",
+    "category": "网络设备",
+    "references": [
+      "https://www.juniper.net/documentation/us/en/software/junos/virtual-chassis/topics/concept/virtual-chassis-components.html"
+    ],
+    "originalAnswers": [
+      {
+        "text": "堆叠可采用普通线连接",
+        "letter": "B"
+      }
+    ],
+    "status": "pending",
+    "type": "single",
+    "explanation": "堆叠连接取决于型号，部分设备支持通过以太网上联口堆叠，因此“普通线不能堆叠”并非通用结论。",
+    "options": [
+      "堆叠成员可协同转发",
+      "堆叠可扩展端口数量",
+      "堆叠可统一管理",
+      "堆叠可采用普通线连接"
+    ],
+    "answers": [
+      3
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": false
+  },
+  {
+    "id": "1-020",
+    "source": {
+      "sheet": "资料1",
+      "row": 20
+    },
+    "originalPrompt": "下面关于交换机的说法正确的是（）。",
+    "prompt": "下面关于交换机的说法正确的是（）。",
+    "category": "网络设备",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "三层交换机集成了路由功能",
+        "letter": "D"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "三层交换机在二层交换之外提供三层路由转发。",
+    "options": [
+      "二层交换机按IP路由转发",
+      "每个端口必须共享冲突域",
+      "所有交换机都只在物理层工作",
+      "三层交换机集成了路由功能"
+    ],
+    "answers": [
+      3
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-021",
+    "source": {
+      "sheet": "资料1",
+      "row": 21
+    },
+    "originalPrompt": "路由器的功能不包括（）。",
+    "prompt": "路由器的功能不包括（）。",
+    "category": "网络设备",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "放大信号",
+        "letter": "B"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "放大或再生信号通常是物理层中继设备的职责，路由器负责网络层处理。",
+    "options": [
+      "放大信号",
+      "路由选择",
+      "隔离广播域",
+      "转发数据包"
+    ],
+    "answers": [
+      0
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-022",
+    "source": {
+      "sheet": "资料1",
+      "row": 22
+    },
+    "originalPrompt": "路由器在ISO/OSI开放系统参考模型中对应于（）。",
+    "prompt": "路由器在ISO/OSI开放系统参考模型中对应于（）。",
+    "category": "网络设备",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "网络层",
+        "letter": "C"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "路由器主要工作在OSI第三层，即网络层。",
+    "options": [
+      "数据链路层",
+      "物理层",
+      "应用层",
+      "网络层"
+    ],
+    "answers": [
+      3
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-023",
+    "source": {
+      "sheet": "资料1",
+      "row": 23
+    },
+    "originalPrompt": "如何加固企业级交换机的物理安全（）。",
+    "prompt": "如何加固企业级交换机的物理安全（）。",
+    "category": "网络设备",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "将交换机存放在锁定的机房",
+        "letter": "C"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "受控机房、门禁和设备上锁能减少未经授权的物理接触。",
+    "options": [
+      "把设备放在开放走廊",
+      "只修改登录界面颜色",
+      "将交换机存放在锁定的机房",
+      "共享机房钥匙"
+    ],
+    "answers": [
+      2
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-024",
+    "source": {
+      "sheet": "资料1",
+      "row": 24
+    },
+    "originalPrompt": "哪种方法可以减少未经授权的网络访问企业级交换机的风险（）。",
+    "prompt": "哪种方法可以减少未经授权的网络访问企业级交换机的风险（）。",
+    "category": "网络设备",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "实施端口安全和802.1X认证",
+        "letter": "C"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "端口安全限制接入设备，802.1X在开放接入前验证身份。",
+    "options": [
+      "把管理密码写在机箱上",
+      "实施端口安全和802.1X认证",
+      "启用所有闲置端口",
+      "取消身份认证"
+    ],
+    "answers": [
+      1
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-025",
+    "source": {
+      "sheet": "资料1",
+      "row": 25
+    },
+    "originalPrompt": "如何保护企业级交换机免受DDoS攻击（）。",
+    "prompt": "如何保护企业级交换机免受DDoS攻击（）。",
+    "category": "网络设备",
+    "references": [
+      "https://www.nist.gov/publications/guide-intrusion-detection-and-prevention-systems-idps"
+    ],
+    "originalAnswers": [
+      {
+        "text": "部署入侵检测系统",
+        "letter": "C"
+      }
+    ],
+    "status": "pending",
+    "type": "single",
+    "explanation": "IDS可发现异常并报警，但不能单独阻断DDoS；还需限速、过滤、流量清洗等措施。",
+    "options": [
+      "关闭全部审计日志",
+      "删除访问控制规则",
+      "提高显示亮度",
+      "部署入侵检测系统"
+    ],
+    "answers": [
+      3
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": false
+  },
+  {
+    "id": "1-026",
+    "source": {
+      "sheet": "资料1",
+      "row": 26
+    },
+    "originalPrompt": "哪种方法可以帮助检测和应对交换机上的异常行为（）。",
+    "prompt": "哪种方法可以帮助检测和应对交换机上的异常行为（）。",
+    "category": "网络设备",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "启用端口镜像和流量分析",
+        "letter": "C"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "端口镜像复制流量供分析，能辅助发现异常通信。",
+    "options": [
+      "禁用全部日志",
+      "只更换机箱外观",
+      "允许任意MAC地址",
+      "启用端口镜像和流量分析"
+    ],
+    "answers": [
+      3
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-027",
+    "source": {
+      "sheet": "资料1",
+      "row": 27
+    },
+    "originalPrompt": "端口安全（Port Security）的主要目标是（）。",
+    "prompt": "端口安全（Port Security）的主要目标是（）。",
+    "category": "网络设备",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "控制哪些设备可以连接到交换机端口",
+        "letter": "A"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "端口安全通过MAC绑定、数量限制等规则控制端口接入。",
+    "options": [
+      "增加硬盘容量",
+      "分配DNS域名",
+      "控制哪些设备可以连接到交换机端口",
+      "替代所有防火墙"
+    ],
+    "answers": [
+      2
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-028",
+    "source": {
+      "sheet": "资料1",
+      "row": 28
+    },
+    "originalPrompt": "为什么应该禁用或定期更改默认的管理员凭证（）。",
+    "prompt": "为什么应该禁用或定期更改默认的管理员凭证（）。",
+    "category": "系统与基础",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "默认凭证是公开的信息，容易被攻击者利用",
+        "letter": "C"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "公开默认凭证易遭批量尝试，应取消默认账户或设置唯一强凭证。",
+    "options": [
+      "默认凭证只有厂家知道",
+      "更改凭证能增加物理带宽",
+      "默认凭证是公开的信息，容易被攻击者利用",
+      "默认密码会自动变强"
+    ],
+    "answers": [
+      2
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-029",
+    "source": {
+      "sheet": "资料1",
+      "row": 29
+    },
+    "originalPrompt": "入侵检测系统（IDS）在交换机安全中的作用是（）。",
+    "prompt": "入侵检测系统（IDS）在交换机安全中的作用是（）。",
+    "category": "网络设备",
+    "references": [
+      "https://www.nist.gov/publications/guide-intrusion-detection-and-prevention-systems-idps"
+    ],
+    "originalAnswers": [
+      {
+        "text": "用于检测和警告关于潜在威胁的信息",
+        "letter": "D"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "IDS侧重检测和告警；主动阻断通常由IPS或联动防护完成。",
+    "options": [
+      "用于检测和警告关于潜在威胁的信息",
+      "自动备份全部文件",
+      "替代所有访问控制",
+      "保证任何攻击均被阻断"
+    ],
+    "answers": [
+      0
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-030",
+    "source": {
+      "sheet": "资料1",
+      "row": 30
+    },
+    "originalPrompt": "防火墙的主要功能是（）。",
+    "prompt": "防火墙的主要功能是（）。",
+    "category": "安全防护",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "网络安全",
+        "letter": "C"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "防火墙依据安全策略控制网络通信，核心目的是保护网络边界。",
+    "options": [
+      "磁盘格式化",
+      "图像编辑",
+      "网络安全",
+      "文档排版"
+    ],
+    "answers": [
+      2
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-031",
+    "source": {
+      "sheet": "资料1",
+      "row": 31
+    },
+    "originalPrompt": "防火墙可以用于（）。",
+    "prompt": "防火墙可以用于（）。",
+    "category": "安全防护",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "防止病毒传播",
+        "letter": "B"
+      }
+    ],
+    "status": "pending",
+    "type": "single",
+    "explanation": "防火墙能限制部分恶意传播路径，不能保证防止所有病毒传播；原答案只在有限场景成立。",
+    "options": [
+      "修复所有软件漏洞",
+      "防止设备被盗",
+      "防止病毒传播",
+      "代替所有终端杀毒软件"
+    ],
+    "answers": [
+      2
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": false
+  },
+  {
+    "id": "1-032",
+    "source": {
+      "sheet": "资料1",
+      "row": 32
+    },
+    "originalPrompt": "在防火墙中，入站流量指的是（）。",
+    "prompt": "在防火墙中，入站流量指的是（）。",
+    "category": "安全防护",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "流向内部网络的流量",
+        "letter": "A"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "入站与出站相对于保护边界定义，入站指进入受保护网络或主机。",
+    "options": [
+      "从内网流向外网的流量",
+      "只指离线打印任务",
+      "仅指本机磁盘数据",
+      "流向内部网络的流量"
+    ],
+    "answers": [
+      3
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-033",
+    "source": {
+      "sheet": "资料1",
+      "row": 33
+    },
+    "originalPrompt": "哪种类型的防火墙规则通常用于允许特定IP地址范围的流量（）。",
+    "prompt": "哪种类型的防火墙规则通常用于允许特定IP地址范围的流量（）。",
+    "category": "安全防护",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "源规则",
+        "letter": "B"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "源地址匹配可允许指定源IP范围；实际规则还可组合目的地址、端口与协议。",
+    "options": [
+      "源规则",
+      "只按文件大小过滤的规则",
+      "只按电源状态过滤的规则",
+      "只按显示器型号过滤的规则"
+    ],
+    "answers": [
+      0
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-034",
+    "source": {
+      "sheet": "资料1",
+      "row": 34
+    },
+    "originalPrompt": "在防火墙配置中，什么是ACL（访问控制列表）（）。",
+    "prompt": "在防火墙配置中，什么是ACL（访问控制列表）（）。",
+    "category": "安全防护",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "一种规则用于确定流量是否允许通过",
+        "letter": "A"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "ACL是有序的允许或拒绝条件集合，匹配后决定处理动作。",
+    "options": [
+      "自动备份服务",
+      "压缩文件目录",
+      "一种规则用于确定流量是否允许通过",
+      "域名解析缓存"
+    ],
+    "answers": [
+      2
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-035",
+    "source": {
+      "sheet": "资料1",
+      "row": 35
+    },
+    "originalPrompt": "下面哪个命令用于在Windows防火墙中打开指定端口（）。",
+    "prompt": "下面哪个命令用于在Windows防火墙中打开指定端口（）。",
+    "category": "网络设备",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "netsh advfirewall firewall add rule",
+        "letter": "C"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "netsh advfirewall firewall add rule可创建规则，打开端口还要指定方向、协议、端口和allow动作。",
+    "options": [
+      "netsh advfirewall firewall add rule",
+      "ping 127.0.0.1",
+      "ipconfig /all",
+      "netstat -ano"
+    ],
+    "answers": [
+      0
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-036",
+    "source": {
+      "sheet": "资料1",
+      "row": 36
+    },
+    "originalPrompt": "在Cisco防火墙中，下面哪个命令用于查看当前的访问控制列表（ACL）配置（）。",
+    "prompt": "在Cisco防火墙中，下面哪个命令用于查看当前的访问控制列表（ACL）配置（）。",
+    "category": "安全防护",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "show access-list",
+        "letter": "A"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "show access-list用于查看ACL；具体命令形式需结合Cisco平台与版本。",
+    "options": [
+      "show clock",
+      "show interfaces",
+      "show version",
+      "show access-list"
+    ],
+    "answers": [
+      3
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-037",
+    "source": {
+      "sheet": "资料1",
+      "row": 37
+    },
+    "originalPrompt": "入侵防御系统的主要目标是（）。",
+    "prompt": "入侵防御系统的主要目标是（）。",
+    "category": "安全防护",
+    "references": [
+      "https://www.nist.gov/publications/guide-intrusion-detection-and-prevention-systems-idps"
+    ],
+    "originalAnswers": [
+      {
+        "text": "检测并响应潜在威胁",
+        "letter": "C"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "IPS识别攻击并采取阻断等响应动作，保护受攻击资产。",
+    "options": [
+      "删除所有路由",
+      "检测并响应潜在威胁",
+      "只记录CPU温度",
+      "取消全部认证"
+    ],
+    "answers": [
+      1
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-038",
+    "source": {
+      "sheet": "资料1",
+      "row": 38
+    },
+    "originalPrompt": "入侵防御系统通常采用哪些方法来防御网络攻击()。",
+    "prompt": "入侵防御系统通常采用哪些方法来防御网络攻击()。",
+    "category": "安全防护",
+    "references": [
+      "https://www.nist.gov/publications/guide-intrusion-detection-and-prevention-systems-idps"
+    ],
+    "originalAnswers": [
+      {
+        "text": "检测和阻止恶意活动",
+        "letter": "C"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "IPS结合检测规则与在线阻断处理恶意流量。",
+    "options": [
+      "禁用所有安全策略",
+      "检测和阻止恶意活动",
+      "仅增加硬盘容量",
+      "公开所有凭证"
+    ],
+    "answers": [
+      1
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-039",
+    "source": {
+      "sheet": "资料1",
+      "row": 39
+    },
+    "originalPrompt": "在安全信息与事件管理系统（SIEM）上，以下哪个命令用于设置警报触发条件()。",
+    "prompt": "在安全信息与事件管理系统（SIEM）上，以下哪个命令用于设置警报触发条件()。",
+    "category": "法规与应急",
+    "references": [
+      "https://www.cac.gov.cn/2017-06/27/c_1121220113.htm"
+    ],
+    "originalAnswers": [
+      {
+        "text": "define triggers",
+        "letter": "C"
+      }
+    ],
+    "status": "pending",
+    "type": "single",
+    "explanation": "SIEM警报语法取决于产品，“define triggers”不是通用标准命令；缺少产品信息无法验证。",
+    "options": [
+      "define triggers",
+      "ping localhost",
+      "format disk",
+      "show clock"
+    ],
+    "answers": [
+      0
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": false
+  },
+  {
+    "id": "1-040",
+    "source": {
+      "sheet": "资料1",
+      "row": 40
+    },
+    "originalPrompt": "你正在设置一个蜜罐，以下哪个命令可以配置蜜罐以模拟特定服务()。",
+    "prompt": "你正在设置一个蜜罐，以下哪个命令可以配置蜜罐以模拟特定服务()。",
+    "category": "安全防护",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "configure honeypot service <service>",
+        "letter": "D"
+      }
+    ],
+    "status": "pending",
+    "type": "single",
+    "explanation": "蜜罐配置必须依具体软件说明；该命令只是原资料给出的示意写法。",
+    "options": [
+      "configure honeypot service <service>",
+      "shutdown all",
+      "show clock",
+      "format disk"
+    ],
+    "answers": [
+      0
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": false
+  },
+  {
+    "id": "1-041",
+    "source": {
+      "sheet": "资料1",
+      "row": 41
+    },
+    "originalPrompt": "传统计算机病毒通常分为引导型,复合型和( )。",
+    "prompt": "传统计算机病毒通常分为引导型,复合型和( )。",
+    "category": "应用与恶意代码",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "文件型",
+        "letter": "B"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "传统分类包括引导型、文件型及同时感染两者的复合型。",
+    "options": [
+      "文件型",
+      "缓存型",
+      "显示型",
+      "文档型"
+    ],
+    "answers": [
+      0
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-042",
+    "source": {
+      "sheet": "资料1",
+      "row": 42
+    },
+    "originalPrompt": "不易被感染上恶意代码的文件是( ) 。",
+    "prompt": "不易被感染上恶意代码的文件是( ) 。",
+    "category": "应用与恶意代码",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "TXT",
+        "letter": "C"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "纯文本通常没有自动执行能力，风险低于可执行文件；仍须防范解析器漏洞和伪装扩展名。",
+    "options": [
+      "可执行脚本",
+      "TXT",
+      "COM",
+      "EXE"
+    ],
+    "answers": [
+      1
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-043",
+    "source": {
+      "sheet": "资料1",
+      "row": 43
+    },
+    "originalPrompt": "公司需要Telnet功能，需要在以下那个软件中安装。",
+    "prompt": "公司需要Telnet功能，需要在以下那个软件中安装。",
+    "category": "系统与基础",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "功能",
+        "letter": "B"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "Windows的Telnet客户端属于可选功能；应按系统版本在Windows功能或服务器功能中启用。",
+    "options": [
+      "功能",
+      "仅在记事本中安装",
+      "仅在显示设置中安装",
+      "仅在画图工具中安装"
+    ],
+    "answers": [
+      0
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-044",
+    "source": {
+      "sheet": "资料1",
+      "row": 44
+    },
+    "originalPrompt": "从网络高层协议角度看，网络攻击可以分为。",
+    "prompt": "从网络高层协议角度看，网络攻击可以分为。",
+    "category": "系统与基础",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "服务攻击与非服务攻击",
+        "letter": "B"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "此分类按攻击是否针对网络服务区分服务攻击和非服务攻击。",
+    "options": [
+      "有线攻击与无线攻击",
+      "服务攻击与非服务攻击",
+      "键盘攻击与鼠标攻击",
+      "物理攻击与电源攻击"
+    ],
+    "answers": [
+      1
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-045",
+    "source": {
+      "sheet": "资料1",
+      "row": 45
+    },
+    "originalPrompt": "在网络安全中，中断指攻击者破坏网络系统的资源，使之变成无效的或无用的这是对。",
+    "prompt": "在网络安全中，中断指攻击者破坏网络系统的资源，使之变成无效的或无用的这是对。",
+    "category": "系统与基础",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "可用性的攻击",
+        "letter": "A"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "破坏资源使正常服务不可用，是对可用性的攻击。",
+    "options": [
+      "完整性的攻击",
+      "可用性的攻击",
+      "不可否认性的攻击",
+      "保密性的攻击"
+    ],
+    "answers": [
+      1
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-046",
+    "source": {
+      "sheet": "资料1",
+      "row": 46
+    },
+    "originalPrompt": "对网络的威胁包括：\nⅠ. 假冒 Ⅱ. 特洛伊木马\nⅢ. 旁路控制 Ⅳ. 陷井 Ⅴ. 授权侵犯\n在这些威胁中，属于渗入威胁的为。",
+    "prompt": "对网络的威胁包括：\nⅠ. 假冒 Ⅱ. 特洛伊木马\nⅢ. 旁路控制 Ⅳ. 陷井 Ⅴ. 授权侵犯\n在这些威胁中，属于渗入威胁的为。",
+    "category": "应用与恶意代码",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "Ⅰ、Ⅲ和Ⅴ",
+        "letter": "A"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "原资料采用渗入威胁分类：假冒、旁路控制和授权侵犯；木马及陷阱属于另一类植入威胁。",
+    "options": [
+      "Ⅰ、Ⅲ和Ⅴ",
+      "Ⅱ和Ⅳ",
+      "全部属于物理攻击",
+      "只有Ⅱ"
+    ],
+    "answers": [
+      0
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-047",
+    "source": {
+      "sheet": "资料1",
+      "row": 47
+    },
+    "originalPrompt": "下面哪一项不是恶意代码的类型？。",
+    "prompt": "下面哪一项不是恶意代码的类型？。",
+    "category": "应用与恶意代码",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "Java脚本",
+        "letter": "D"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "JavaScript本身是语言，正常脚本不是恶意代码；但恶意脚本可以成为攻击载体。",
+    "options": [
+      "病毒",
+      "Java脚本",
+      "木马",
+      "蠕虫"
+    ],
+    "answers": [
+      1
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-048",
+    "source": {
+      "sheet": "资料1",
+      "row": 48
+    },
+    "originalPrompt": "下面哪一项不是恶意代码的特征？。",
+    "prompt": "下面哪一项不是恶意代码的特征？。",
+    "category": "应用与恶意代码",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "检测黑客的攻击行为和手段",
+        "letter": "C"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "检测黑客攻击是安全防御系统的能力，不是恶意代码的固有特征。",
+    "options": [
+      "隐蔽性",
+      "检测黑客的攻击行为和手段",
+      "非授权性",
+      "破坏性"
+    ],
+    "answers": [
+      1
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-049",
+    "source": {
+      "sheet": "资料1",
+      "row": 49
+    },
+    "originalPrompt": "高级网络安全管理员在工作中应该遵守的上位法是（ ）。",
+    "prompt": "高级网络安全管理员在工作中应该遵守的上位法是（ ）。",
+    "category": "系统与基础",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "《网络安全法》",
+        "letter": "B"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "网络安全工作受《网络安全法》等法律规范，应使用现行版本。",
+    "options": [
+      "《网络安全法》",
+      "《建筑法》",
+      "《食品安全法》",
+      "《道路交通安全法》"
+    ],
+    "answers": [
+      0
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-050",
+    "source": {
+      "sheet": "资料1",
+      "row": 50
+    },
+    "originalPrompt": "高级网络安全管理员在工作中应该对关键信息基础设施实行的保护制度是（ ）。",
+    "prompt": "高级网络安全管理员在工作中应该对关键信息基础设施实行的保护制度是（ ）。",
+    "category": "法规与应急",
+    "references": [
+      "https://www.ghxrd.gov.cn/zlk_0/zcfg/202511/t20251110_229733.html"
+    ],
+    "originalAnswers": [
+      {
+        "text": "所有以上选项",
+        "letter": "D"
+      }
+    ],
+    "status": "pending",
+    "type": "single",
+    "explanation": "原选项缺失，无法知道“所有以上选项”指哪些措施。可确认：关键信息基础设施在等保基础上实行重点保护。",
+    "options": [
+      "仅依靠员工自觉",
+      "只管理办公家具",
+      "所有以上选项",
+      "完全免除安全评估"
+    ],
+    "answers": [
+      2
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": false
+  },
+  {
+    "id": "1-051",
+    "source": {
+      "sheet": "资料1",
+      "row": 51
+    },
+    "originalPrompt": "高级网络安全管理员在工作中应该了解的网络安全的术语之一是（ ）。",
+    "prompt": "高级网络安全管理员在工作中应该了解的网络安全的术语之一是（ ）。",
+    "category": "系统与基础",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "所有以上选项",
+        "letter": "D"
+      }
+    ],
+    "status": "pending",
+    "type": "single",
+    "explanation": "原选项缺失，“所有以上选项”缺乏可确定指代，保留为待核实题。",
+    "options": [
+      "所有以上选项",
+      "仅指机械零件名",
+      "仅指财务会计名词",
+      "仅指天气术语"
+    ],
+    "answers": [
+      0
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": false
+  },
+  {
+    "id": "1-052",
+    "source": {
+      "sheet": "资料1",
+      "row": 52
+    },
+    "originalPrompt": "高级网络安全管理员在工作中应该防范的一种常见的网络攻击方式是（ ）。",
+    "prompt": "高级网络安全管理员在工作中应该防范的一种常见的网络攻击方式是（ ）。",
+    "category": "系统与基础",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "所有以上选项",
+        "letter": "D"
+      }
+    ],
+    "status": "pending",
+    "type": "single",
+    "explanation": "原选项缺失。DoS、XSS、SQL注入等均属常见攻击，但不能还原原题全部选项。",
+    "options": [
+      "只防范鼠标电池耗尽",
+      "所有以上选项",
+      "只防范设备外观划伤",
+      "只防范打印颜色错误"
+    ],
+    "answers": [
+      1
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": false
+  },
+  {
+    "id": "1-053",
+    "source": {
+      "sheet": "资料1",
+      "row": 53
+    },
+    "originalPrompt": "应用程序安全可能包括（）形式。",
+    "prompt": "应用程序安全可能包括（）形式。",
+    "category": "应用与恶意代码",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "硬件、软件和识别或最小化安全漏洞的程序。",
+        "letter": "A"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "应用安全包含保护应用的软硬件机制与发现、减少漏洞的流程。",
+    "options": [
+      "只包括宣传海报",
+      "硬件、软件和识别或最小化安全漏洞的程序。",
+      "只包括显示器亮度",
+      "只包括办公家具"
+    ],
+    "answers": [
+      1
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-054",
+    "source": {
+      "sheet": "资料1",
+      "row": 54
+    },
+    "originalPrompt": "阻止任何人从 Internet 查看计算机 IP 地址的路由器属于（）应用程序安全形式。",
+    "prompt": "阻止任何人从 Internet 查看计算机 IP 地址的路由器属于（）应用程序安全形式。",
+    "category": "网络设备",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "硬件应用程序安全形式。",
+        "letter": "C"
+      }
+    ],
+    "status": "pending",
+    "type": "single",
+    "explanation": "题库将路由器归为硬件安全措施；NAT隐藏内部地址并不等同于认证或完整安全防护。",
+    "options": [
+      "硬件应用程序安全形式。",
+      "纸面审批形式",
+      "只靠用户记忆的形式",
+      "纯文本编辑形式"
+    ],
+    "answers": [
+      0
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": false
+  },
+  {
+    "id": "1-055",
+    "source": {
+      "sheet": "资料1",
+      "row": 55
+    },
+    "originalPrompt": "注入攻击的本质是（）。",
+    "prompt": "注入攻击的本质是（）。",
+    "category": "应用与恶意代码",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "把用户输入的数据当成代码执行",
+        "letter": "A"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "注入发生在不可信输入跨越数据与代码边界时。",
+    "options": [
+      "只改变显示器颜色",
+      "把用户输入的数据当成代码执行",
+      "让输入始终只作为数据保存",
+      "只改变磁盘容量"
+    ],
+    "answers": [
+      1
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-056",
+    "source": {
+      "sheet": "资料1",
+      "row": 56
+    },
+    "originalPrompt": "注入攻击产生的原因是（）。",
+    "prompt": "注入攻击产生的原因是（）。",
+    "category": "应用与恶意代码",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "程序对用户输入的参数没有经过严格的过滤处理",
+        "letter": "B"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "缺乏输入约束与安全执行边界会产生注入；SQL场景应优先参数化查询。",
+    "options": [
+      "屏幕分辨率过低",
+      "服务器机箱太小",
+      "网络电缆太长",
+      "程序对用户输入的参数没有经过严格的过滤处理"
+    ],
+    "answers": [
+      3
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-057",
+    "source": {
+      "sheet": "资料1",
+      "row": 57
+    },
+    "originalPrompt": "注入攻击需要满足（）。",
+    "prompt": "注入攻击需要满足（）。",
+    "category": "应用与恶意代码",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "用户能够控制输入的内容；web应用把用户输入的内容带入到数据库执行",
+        "letter": "D"
+      }
+    ],
+    "status": "pending",
+    "type": "single",
+    "explanation": "仅把数据传入数据库不等于注入，还须存在不安全拼接等让输入改变查询语义的条件。",
+    "options": [
+      "用户能够控制输入的内容；web应用把用户输入的内容带入到数据库执行",
+      "输入永远不参与处理",
+      "数据库始终离线",
+      "用户完全无法影响输入"
+    ],
+    "answers": [
+      0
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": false
+  },
+  {
+    "id": "1-058",
+    "source": {
+      "sheet": "资料1",
+      "row": 58
+    },
+    "originalPrompt": "SQL注入攻击指的是（）。",
+    "prompt": "SQL注入攻击指的是（）。",
+    "category": "应用与恶意代码",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "通过构建特殊的输入作为参数传入Web应用程序，而这些输入大都是SQL语法里的一些组合，通过执行SQL语句进而执行攻击者所要的操作",
+        "letter": "A"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "SQL注入利用不安全查询构造改变数据库语句的原有含义。",
+    "options": [
+      "通过构建特殊的输入作为参数传入Web应用程序，而这些输入大都是SQL语法里的一些组合，通过执行SQL语句进而执行攻击者所要的操作",
+      "只修改本机时间",
+      "只检查网络带宽",
+      "只发送正常图片"
+    ],
+    "answers": [
+      0
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-059",
+    "source": {
+      "sheet": "资料1",
+      "row": 59
+    },
+    "originalPrompt": "跨站脚本攻击的原理是（）。",
+    "prompt": "跨站脚本攻击的原理是（）。",
+    "category": "应用与恶意代码",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "操纵易受攻击的网站，以便将恶意脚本返回给用户",
+        "letter": "A"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "XSS使不可信脚本在受害者浏览器的站点上下文中执行。",
+    "options": [
+      "使路由器重启",
+      "使交换机提升带宽",
+      "使数据库自动扩容",
+      "操纵易受攻击的网站，以便将恶意脚本返回给用户"
+    ],
+    "answers": [
+      3
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-060",
+    "source": {
+      "sheet": "资料1",
+      "row": 60
+    },
+    "originalPrompt": "跨站脚本攻击的目的是（）",
+    "prompt": "跨站脚本攻击的目的是（）",
+    "category": "应用与恶意代码",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "操纵易受攻击的网站，以便将恶意脚本返回给用户",
+        "letter": "D"
+      }
+    ],
+    "status": "pending",
+    "type": "single",
+    "explanation": "原答案描述的是原理。XSS常见目标包括窃取会话、冒用用户、篡改页面。",
+    "options": [
+      "仅备份数据库",
+      "仅提高页面加载速度",
+      "仅更换网页主题",
+      "操纵易受攻击的网站，以便将恶意脚本返回给用户"
+    ],
+    "answers": [
+      3
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": false
+  },
+  {
+    "id": "1-061",
+    "source": {
+      "sheet": "资料1",
+      "row": 61
+    },
+    "originalPrompt": "CSRF 攻击的全称是（）。",
+    "prompt": "CSRF 攻击的全称是（）。",
+    "category": "应用与恶意代码",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "Cross-Site Request Forgery",
+        "letter": "A"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "CSRF是跨站请求伪造，英文全称为Cross-Site Request Forgery。",
+    "options": [
+      "Client-Side Router Firewall",
+      "Central Server Request Filter",
+      "Cross-Site Resource Format",
+      "Cross-Site Request Forgery"
+    ],
+    "answers": [
+      3
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-062",
+    "source": {
+      "sheet": "资料1",
+      "row": 62
+    },
+    "originalPrompt": "CSRF 攻击的原理是（）。",
+    "prompt": "CSRF 攻击的原理是（）。",
+    "category": "应用与恶意代码",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "利用受害者尚未失效的身份认证信息，诱骗其点击恶意链接或者访问包含攻击代码的页面，在受害人不知情的情况下以受害人的身份向服务器发送请求，从而完成非法操作。",
+        "letter": "A"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "CSRF利用浏览器自动携带的身份凭证诱导非用户本意的请求。",
+    "options": [
+      "利用受害者尚未失效的身份认证信息，诱骗其点击恶意链接或者访问包含攻击代码的页面，在受害人不知情的情况下以受害人的身份向服务器发送请求，从而完成非法操作。",
+      "只压缩网页文件",
+      "仅通过正常退出登录实现",
+      "只攻击服务器硬盘机械结构"
+    ],
+    "answers": [
+      0
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-063",
+    "source": {
+      "sheet": "资料1",
+      "row": 63
+    },
+    "originalPrompt": "（）的恶意软件旨在隐藏设备上的其他恶意程序或活动。",
+    "prompt": "（）的恶意软件旨在隐藏设备上的其他恶意程序或活动。",
+    "category": "应用与恶意代码",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "Rootkit",
+        "letter": "B"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "Rootkit通过隐藏进程、文件或其他痕迹帮助攻击者维持隐蔽访问。",
+    "options": [
+      "普通文本编辑器",
+      "磁盘备份工具",
+      "防火墙规则",
+      "Rootkit"
+    ],
+    "answers": [
+      3
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-064",
+    "source": {
+      "sheet": "资料1",
+      "row": 64
+    },
+    "originalPrompt": "（）的恶意软件可以通过利用软件漏洞来感染设备，而无需任何用户交互。",
+    "prompt": "（）的恶意软件可以通过利用软件漏洞来感染设备，而无需任何用户交互。",
+    "category": "应用与恶意代码",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "漏洞利用",
+        "letter": "D"
+      }
+    ],
+    "status": "pending",
+    "type": "single",
+    "explanation": "漏洞利用可触发程序缺陷；本题原答案是攻击方式而非严格的软件类别。",
+    "options": [
+      "漏洞利用",
+      "正常卸载程序",
+      "只修改主题设置",
+      "纯手工复制文件"
+    ],
+    "answers": [
+      0
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": false
+  },
+  {
+    "id": "1-065",
+    "source": {
+      "sheet": "资料1",
+      "row": 65
+    },
+    "originalPrompt": "（）的恶意软件可以在未经用户同意或充分通知的情况下监控在线行为、收集敏感信息、更改设备设置并降低设备性能。",
+    "prompt": "（）的恶意软件可以在未经用户同意或充分通知的情况下监控在线行为、收集敏感信息、更改设备设置并降低设备性能。",
+    "category": "应用与恶意代码",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "间谍软件",
+        "letter": "A"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "间谍软件在未经充分授权的情况下收集活动和敏感信息。",
+    "options": [
+      "磁盘碎片整理工具",
+      "间谍软件",
+      "系统补丁",
+      "正常驱动程序"
+    ],
+    "answers": [
+      1
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-066",
+    "source": {
+      "sheet": "资料1",
+      "row": 66
+    },
+    "originalPrompt": "应用安全日志的收集和分析可以使用（）。",
+    "prompt": "应用安全日志的收集和分析可以使用（）。",
+    "category": "应用与恶意代码",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "所有以上选项",
+        "letter": "D"
+      }
+    ],
+    "status": "pending",
+    "type": "single",
+    "explanation": "原资料未提供“所有以上选项”的前置选项。可采用集中日志平台、SIEM等，但不能还原原题答案组合。",
+    "options": [
+      "只调整机箱灯光",
+      "完全禁用审计",
+      "所有以上选项",
+      "仅查看桌面壁纸"
+    ],
+    "answers": [
+      2
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": false
+  },
+  {
+    "id": "1-067",
+    "source": {
+      "sheet": "资料1",
+      "row": 67
+    },
+    "originalPrompt": "为什么日志管理在计算机系统中至关重要（）。",
+    "prompt": "为什么日志管理在计算机系统中至关重要（）。",
+    "category": "系统与基础",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "用于记录系统事件和故障",
+        "letter": "B"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "日志帮助故障定位、安全审计和事件调查，须考虑时间同步与完整性。",
+    "options": [
+      "保证网络不再中断",
+      "替代所有身份认证",
+      "提高显示器亮度",
+      "用于记录系统事件和故障"
+    ],
+    "answers": [
+      3
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-068",
+    "source": {
+      "sheet": "资料1",
+      "row": 68
+    },
+    "originalPrompt": "RDP是基于以下哪种远程协议工作的（）。",
+    "prompt": "RDP是基于以下哪种远程协议工作的（）。",
+    "category": "系统与基础",
+    "references": [
+      "https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-rdpbcgr/422e59a0-98c8-4a28-af9f-235a572b6e4d"
+    ],
+    "originalAnswers": [
+      {
+        "text": "Telnet",
+        "letter": "A"
+      }
+    ],
+    "status": "corrected",
+    "type": "single",
+    "explanation": "RDP本身是Remote Desktop Protocol，远程桌面协议；不基于Telnet。练习按纠正后的答案评分。",
+    "options": [
+      "SMTP",
+      "FTP",
+      "HTTP",
+      "RDP（Remote Desktop Protocol，远程桌面协议）"
+    ],
+    "answers": [
+      3
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-069",
+    "source": {
+      "sheet": "资料1",
+      "row": 69
+    },
+    "originalPrompt": "RDP默认的加密方式是（）。",
+    "prompt": "RDP默认的加密方式是（）。",
+    "category": "密码与认证",
+    "references": [
+      "https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-rdpbcgr/422e59a0-98c8-4a28-af9f-235a572b6e4d"
+    ],
+    "originalAnswers": [
+      {
+        "text": "RC4",
+        "letter": "D"
+      }
+    ],
+    "status": "pending",
+    "type": "single",
+    "explanation": "RC4对应旧版标准RDP安全层；现代RDP可协商TLS/CredSSP，不能把RC4说成所有版本默认。",
+    "options": [
+      "只能使用DES",
+      "RC4",
+      "只采用MD5加密",
+      "明文且无任何保护"
+    ],
+    "answers": [
+      1
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": false
+  },
+  {
+    "id": "1-070",
+    "source": {
+      "sheet": "资料1",
+      "row": 70
+    },
+    "originalPrompt": "Windows server备份对象有哪些（）。",
+    "prompt": "Windows server备份对象有哪些（）。",
+    "category": "系统与基础",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "以上都是",
+        "letter": "D"
+      }
+    ],
+    "status": "pending",
+    "type": "single",
+    "explanation": "原题缺少“以上都是”指代的选项。Windows Server Backup支持卷、文件及系统状态等，但要结合版本。",
+    "options": [
+      "以上都是",
+      "只能备份单个空文件夹",
+      "仅备份桌面颜色",
+      "仅备份鼠标坐标"
+    ],
+    "answers": [
+      0
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": false
+  },
+  {
+    "id": "1-071",
+    "source": {
+      "sheet": "资料1",
+      "row": 71
+    },
+    "originalPrompt": "Windows server中哪种卷相当于raid1技术（）。",
+    "prompt": "Windows server中哪种卷相当于raid1技术（）。",
+    "category": "系统与基础",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "镜像卷",
+        "letter": "B"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "镜像卷将相同数据写到两份存储中，对应RAID 1思路。",
+    "options": [
+      "跨区卷",
+      "带区卷",
+      "镜像卷",
+      "简单卷"
+    ],
+    "answers": [
+      2
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-072",
+    "source": {
+      "sheet": "资料1",
+      "row": 72
+    },
+    "originalPrompt": "以下不是Windows server备份功能的是（）。",
+    "prompt": "以下不是Windows server备份功能的是（）。",
+    "category": "系统与基础",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "保证保留全部卷影复制（VSS）快照",
+        "letter": "D"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "备份不保证保存所有历史VSS快照，快照留存与空间和备份策略相关。",
+    "options": [
+      "执行系统恢复",
+      "备份卷",
+      "备份文件与文件夹",
+      "保证保留全部卷影复制（VSS）快照"
+    ],
+    "answers": [
+      3
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-073",
+    "source": {
+      "sheet": "资料1",
+      "row": 73
+    },
+    "originalPrompt": "涉及国家秘密的计算机信息系统，必须。",
+    "prompt": "涉及国家秘密的计算机信息系统，必须。",
+    "category": "法规与应急",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "实行物理隔离",
+        "letter": "A"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "涉密系统须按适用保密要求隔离，避免与公共网络违规互联。",
+    "options": [
+      "取消访问控制",
+      "实行物理隔离",
+      "共享默认密码",
+      "直接接入公共互联网"
+    ],
+    "answers": [
+      1
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-074",
+    "source": {
+      "sheet": "资料1",
+      "row": 74
+    },
+    "originalPrompt": "我国的计算机信息系统实行什么保护制度？。",
+    "prompt": "我国的计算机信息系统实行什么保护制度？。",
+    "category": "系统与基础",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "等级保护制度",
+        "letter": "B"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "我国实行网络安全等级保护制度，通常按五个安全保护等级管理。",
+    "options": [
+      "设备品牌保护制度",
+      "等级保护制度",
+      "仅按价格分级制度",
+      "颜色分类制度"
+    ],
+    "answers": [
+      1
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-075",
+    "source": {
+      "sheet": "资料1",
+      "row": 75
+    },
+    "originalPrompt": "在ISO17799中,对信息安全的“保密性”的描述是。",
+    "prompt": "在ISO17799中,对信息安全的“保密性”的描述是。",
+    "category": "密码与认证",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "确保只有被授权的人才可以访问信息",
+        "letter": "A"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "保密性是仅让有权主体获得信息，与完整性和可用性不同。",
+    "options": [
+      "确保数据永不删除",
+      "确保服务器永不关机",
+      "确保只有被授权的人才可以访问信息",
+      "确保任何人都能读取"
+    ],
+    "answers": [
+      2
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-076",
+    "source": {
+      "sheet": "资料1",
+      "row": 76
+    },
+    "originalPrompt": "网络安全事件是指（ ）。",
+    "prompt": "网络安全事件是指（ ）。",
+    "category": "法规与应急",
+    "references": [
+      "https://www.cac.gov.cn/2017-06/27/c_1121220113.htm"
+    ],
+    "originalAnswers": [
+      {
+        "text": "网络中发生的危害网络安全或者网络运行的事件",
+        "letter": "D"
+      }
+    ],
+    "status": "pending",
+    "type": "single",
+    "explanation": "网络安全事件涉及网络、系统或数据受损，可能由攻击、故障、灾害等原因引起。",
+    "options": [
+      "正常打开计算器",
+      "单纯修改桌面壁纸",
+      "网络中发生的危害网络安全或者网络运行的事件",
+      "正常更换键盘"
+    ],
+    "answers": [
+      2
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": false
+  },
+  {
+    "id": "1-077",
+    "source": {
+      "sheet": "资料1",
+      "row": 77
+    },
+    "originalPrompt": "网络安全事件按照事件类型分为（ ）种。",
+    "prompt": "网络安全事件按照事件类型分为（ ）种。",
+    "category": "法规与应急",
+    "references": [
+      "https://www.cac.gov.cn/2017-06/27/c_1121220113.htm"
+    ],
+    "originalAnswers": [
+      {
+        "text": "7",
+        "letter": "C"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "原资料采用2017年国家应急预案的七类口径；分类口径须与引用预案一致。",
+    "options": [
+      "3",
+      "7",
+      "5",
+      "4"
+    ],
+    "answers": [
+      1
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-078",
+    "source": {
+      "sheet": "资料1",
+      "row": 78
+    },
+    "originalPrompt": "网页篡改事件是指（ ）。",
+    "prompt": "网页篡改事件是指（ ）。",
+    "category": "法规与应急",
+    "references": [
+      "https://www.cac.gov.cn/2017-06/27/c_1121220113.htm"
+    ],
+    "originalAnswers": [
+      {
+        "text": "攻击者通过各种手段修改网站的页面内容，以达到恶意宣传、诋毁、破坏或牟利的目的",
+        "letter": "A"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "未经授权修改页面即网页篡改，可影响内容真实性、声誉及业务。",
+    "options": [
+      "正常更新已审批内容",
+      "定期备份页面",
+      "攻击者通过各种手段修改网站的页面内容，以达到恶意宣传、诋毁、破坏或牟利的目的",
+      "依法调整网站栏目"
+    ],
+    "answers": [
+      2
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-079",
+    "source": {
+      "sheet": "资料1",
+      "row": 79
+    },
+    "originalPrompt": "网页篡改事件的特征有（ ）。",
+    "prompt": "网页篡改事件的特征有（ ）。",
+    "category": "法规与应急",
+    "references": [
+      "https://www.cac.gov.cn/2017-06/27/c_1121220113.htm"
+    ],
+    "originalAnswers": [
+      {
+        "text": "上述选项都是",
+        "letter": "D"
+      }
+    ],
+    "status": "pending",
+    "type": "single",
+    "explanation": "缺失前置选项，无法还原“上述选项都是”；篡改可能涉及内容替换、恶意链接等。",
+    "options": [
+      "只表现为键盘失灵",
+      "上述选项都是",
+      "只表现为鼠标变色",
+      "只表现为显示器关机"
+    ],
+    "answers": [
+      1
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": false
+  },
+  {
+    "id": "1-080",
+    "source": {
+      "sheet": "资料1",
+      "row": 80
+    },
+    "originalPrompt": "混合性网络安全事件的处置方法主要包括（）。",
+    "prompt": "混合性网络安全事件的处置方法主要包括（）。",
+    "category": "法规与应急",
+    "references": [
+      "https://www.cac.gov.cn/2017-06/27/c_1121220113.htm"
+    ],
+    "originalAnswers": [
+      {
+        "text": "准备、检测、抑制、根除、恢复、跟踪",
+        "letter": "A"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "该流程依次完成准备、发现分析、遏制、清除、恢复与事后跟踪。",
+    "options": [
+      "只修改壁纸",
+      "跳过检测直接删除所有文件",
+      "准备、检测、抑制、根除、恢复、跟踪",
+      "只提高显示器分辨率"
+    ],
+    "answers": [
+      2
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-081",
+    "source": {
+      "sheet": "资料1",
+      "row": 81
+    },
+    "originalPrompt": "在跟踪阶段，（）可以帮助分析事件的原因和影响。",
+    "prompt": "在跟踪阶段，（）可以帮助分析事件的原因和影响。",
+    "category": "法规与应急",
+    "references": [
+      "https://www.cac.gov.cn/2017-06/27/c_1121220113.htm"
+    ],
+    "originalAnswers": [
+      {
+        "text": "事件溯源分析",
+        "letter": "A"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "溯源通过日志、流量与主机证据重建事件链条和影响范围。",
+    "options": [
+      "只测机箱重量",
+      "只更换鼠标",
+      "只看屏幕尺寸",
+      "事件溯源分析"
+    ],
+    "answers": [
+      3
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-082",
+    "source": {
+      "sheet": "资料1",
+      "row": 82
+    },
+    "originalPrompt": "在发现计算机病毒感染后，（）措施是正确的。",
+    "prompt": "在发现计算机病毒感染后，（）措施是正确的。",
+    "category": "应用与恶意代码",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "立即关闭计算机并断开网络连接",
+        "letter": "A"
+      }
+    ],
+    "status": "pending",
+    "type": "single",
+    "explanation": "优先隔离网络。是否关机应结合应急方案；直接关机会丢失易失证据，原答案存在不当绝对化。",
+    "options": [
+      "忽略安全报警",
+      "立即关闭计算机并断开网络连接",
+      "继续联网共享文件",
+      "公开管理员密码"
+    ],
+    "answers": [
+      1
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": false
+  },
+  {
+    "id": "1-083",
+    "source": {
+      "sheet": "资料1",
+      "row": 83
+    },
+    "originalPrompt": "在处置计算机病毒时，（）是正确的。",
+    "prompt": "在处置计算机病毒时，（）是正确的。",
+    "category": "应用与恶意代码",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "运行杀毒软件进行全盘扫描",
+        "letter": "A"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "隔离后用可信且更新的安全工具扫描，并确认感染范围和持久化机制。",
+    "options": [
+      "给所有人管理员权限",
+      "运行杀毒软件进行全盘扫描",
+      "停止安装安全补丁",
+      "删除所有审计日志"
+    ],
+    "answers": [
+      1
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-084",
+    "source": {
+      "sheet": "资料1",
+      "row": 84
+    },
+    "originalPrompt": "在需要应急处置时，（）是正确的。",
+    "prompt": "在需要应急处置时，（）是正确的。",
+    "category": "法规与应急",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "使用备份文件恢复受感染的系统",
+        "letter": "B"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "恢复前应确认备份干净、漏洞已修复，恢复后复测并持续监测。",
+    "options": [
+      "取消所有访问限制",
+      "使用来历不明的破解工具",
+      "只重命名恶意文件",
+      "使用备份文件恢复受感染的系统"
+    ],
+    "answers": [
+      3
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-085",
+    "source": {
+      "sheet": "资料1",
+      "row": 85
+    },
+    "originalPrompt": "（）是系统安全记录留存的目的。",
+    "prompt": "（）是系统安全记录留存的目的。",
+    "category": "法规与应急",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "提供合规性报告",
+        "letter": "B"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "安全记录提供合规、审计与调查证据，保存期限与内容须遵循要求。",
+    "options": [
+      "只减少屏幕亮度",
+      "只增加桌面图标",
+      "提供合规性报告",
+      "只降低键盘噪音"
+    ],
+    "answers": [
+      2
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-086",
+    "source": {
+      "sheet": "资料1",
+      "row": 86
+    },
+    "originalPrompt": "（）是系统安全记录留存的最佳实践。",
+    "prompt": "（）是系统安全记录留存的最佳实践。",
+    "category": "法规与应急",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "保留历史记录以进行审计和调查",
+        "letter": "C"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "应按留存策略保留可追溯的历史记录，限制访问并防止篡改。",
+    "options": [
+      "立刻删除所有历史记录",
+      "把所有日志公开",
+      "保留历史记录以进行审计和调查",
+      "只保留截图不记录时间"
+    ],
+    "answers": [
+      2
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-087",
+    "source": {
+      "sheet": "资料1",
+      "row": 87
+    },
+    "originalPrompt": "（）是应报告的系统安全事件之一。",
+    "prompt": "（）是应报告的系统安全事件之一。",
+    "category": "法规与应急",
+    "references": [
+      "https://www.cac.gov.cn/2017-06/27/c_1121220113.htm"
+    ],
+    "originalAnswers": [
+      {
+        "text": "未经授权的访问尝试失败",
+        "letter": "B"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "失败的非授权访问尝试是安全线索；是否升级报告需依据频率、影响和预案。",
+    "options": [
+      "经授权修改壁纸",
+      "正常退出登录",
+      "未经授权的访问尝试失败",
+      "正常关闭计算器"
+    ],
+    "answers": [
+      2
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-088",
+    "source": {
+      "sheet": "资料1",
+      "row": 88
+    },
+    "originalPrompt": "（）是系统异常状态特征的常见示例。",
+    "prompt": "（）是系统异常状态特征的常见示例。",
+    "category": "系统与基础",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "未经授权的登录尝试",
+        "letter": "C"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "未经授权登录尝试可能表明口令猜测或其他攻击，应结合来源与频率分析。",
+    "options": [
+      "按计划创建备份",
+      "经批准安装补丁",
+      "正常登录业务",
+      "未经授权的登录尝试"
+    ],
+    "answers": [
+      3
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-089",
+    "source": {
+      "sheet": "资料1",
+      "row": 89
+    },
+    "originalPrompt": "（）可能是系统异常状态的指示符。",
+    "prompt": "（）可能是系统异常状态的指示符。",
+    "category": "系统与基础",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "大量的异常日志记录",
+        "letter": "B"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "异常日志突然增加可能与攻击或系统故障相关，需关联分析。",
+    "options": [
+      "正常打印页数",
+      "显示器型号变化",
+      "大量的异常日志记录",
+      "机箱颜色变化"
+    ],
+    "answers": [
+      2
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-090",
+    "source": {
+      "sheet": "资料1",
+      "row": 90
+    },
+    "originalPrompt": "（）是系统异常状态的危险指示符。",
+    "prompt": "（）是系统异常状态的危险指示符。",
+    "category": "系统与基础",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "未经授权的访问尝试失败",
+        "letter": "A"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "失败的非授权访问是风险线索，但单次失败不能直接证明系统失陷。",
+    "options": [
+      "按计划完成备份",
+      "经批准的维护窗口",
+      "正常用户退出",
+      "未经授权的访问尝试失败"
+    ],
+    "answers": [
+      3
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-091",
+    "source": {
+      "sheet": "资料1",
+      "row": 91
+    },
+    "originalPrompt": "（）描述了病毒样本的识别方法中的特征匹配方法。",
+    "prompt": "（）描述了病毒样本的识别方法中的特征匹配方法。",
+    "category": "应用与恶意代码",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "通过比对已知病毒特征数据库来检测",
+        "letter": "B"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "特征匹配对比已知恶意代码模式，优势是明确，局限是未知或变种覆盖不足。",
+    "options": [
+      "只查看硬盘品牌",
+      "只检查文件名长度",
+      "通过比对已知病毒特征数据库来检测",
+      "只比对显示器颜色"
+    ],
+    "answers": [
+      2
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-092",
+    "source": {
+      "sheet": "资料1",
+      "row": 92
+    },
+    "originalPrompt": "（）是用于病毒样本识别的主要技术之一。",
+    "prompt": "（）是用于病毒样本识别的主要技术之一。",
+    "category": "应用与恶意代码",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "利用机器学习算法来分类样本",
+        "letter": "C"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "机器学习可基于特征辅助分类，但需关注误报与模型适用范围。",
+    "options": [
+      "只重命名文件",
+      "只提高CPU风扇转速",
+      "只改变文件图标",
+      "利用机器学习算法来分类样本"
+    ],
+    "answers": [
+      3
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-093",
+    "source": {
+      "sheet": "资料1",
+      "row": 93
+    },
+    "originalPrompt": "（）描述了病毒样本识别中的行为分析方法。",
+    "prompt": "（）描述了病毒样本识别中的行为分析方法。",
+    "category": "应用与恶意代码",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "分析样本的执行行为以确定是否为病毒",
+        "letter": "C"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "行为分析观察运行时调用、网络活动和文件修改等，而不只依赖静态特征。",
+    "options": [
+      "分析样本的执行行为以确定是否为病毒",
+      "只按文件大小判断",
+      "只看文件名首字母",
+      "只查看文件图标"
+    ],
+    "answers": [
+      0
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-094",
+    "source": {
+      "sheet": "资料1",
+      "row": 94
+    },
+    "originalPrompt": "（）最准确地定义访问日志。",
+    "prompt": "（）最准确地定义访问日志。",
+    "category": "系统与基础",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "记录系统、网络或网站上的用户活动和请求的记录",
+        "letter": "C"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "访问日志记录请求和用户活动，常含时间、主体、资源、来源与结果。",
+    "options": [
+      "只记录机箱温度",
+      "记录系统、网络或网站上的用户活动和请求的记录",
+      "只列出显示器品牌",
+      "只保存桌面图片"
+    ],
+    "answers": [
+      1
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-095",
+    "source": {
+      "sheet": "资料1",
+      "row": 95
+    },
+    "originalPrompt": "访问日志的主要目的是（）。",
+    "prompt": "访问日志的主要目的是（）。",
+    "category": "系统与基础",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "监测用户的行为和请求以提高安全性和性能",
+        "letter": "C"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "分析访问日志可发现异常访问、性能瓶颈与使用情况，同时应保护日志隐私。",
+    "options": [
+      "只增大音量",
+      "只美化桌面",
+      "监测用户的行为和请求以提高安全性和性能",
+      "只增加端口数量"
+    ],
+    "answers": [
+      2
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-096",
+    "source": {
+      "sheet": "资料1",
+      "row": 96
+    },
+    "originalPrompt": "违法有害信息的特征包括（）。",
+    "prompt": "违法有害信息的特征包括（）。",
+    "category": "法规与应急",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "含有危险关键字的内容",
+        "letter": "C"
+      }
+    ],
+    "status": "pending",
+    "type": "single",
+    "explanation": "关键词可作为识别线索，但须结合上下文与适用法律，不能单凭关键词认定违法。",
+    "options": [
+      "只看图片分辨率",
+      "只看内容字数是否为偶数",
+      "含有危险关键字的内容",
+      "只看字体是否加粗"
+    ],
+    "answers": [
+      2
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": false
+  },
+  {
+    "id": "1-097",
+    "source": {
+      "sheet": "资料1",
+      "row": 97
+    },
+    "originalPrompt": "常见的违法有害信息识别方法包括（）。",
+    "prompt": "常见的违法有害信息识别方法包括（）。",
+    "category": "法规与应急",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "使用自然语言处理和机器学习技术",
+        "letter": "B"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "NLP与机器学习能辅助语义分类，仍应结合规则和人工复核。",
+    "options": [
+      "只按文件后缀判断",
+      "只按屏幕亮度判断",
+      "使用自然语言处理和机器学习技术",
+      "只按机箱型号判断"
+    ],
+    "answers": [
+      2
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-098",
+    "source": {
+      "sheet": "资料1",
+      "row": 98
+    },
+    "originalPrompt": "机器学习在违法有害信息识别中的作用是（）。",
+    "prompt": "机器学习在违法有害信息识别中的作用是（）。",
+    "category": "法规与应急",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "帮助自动识别潜在的问题",
+        "letter": "B"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "模型用于辅助识别和筛查，需处理误报、漏报与语境差异。",
+    "options": [
+      "只负责页面排版",
+      "自动保证所有结论正确",
+      "帮助自动识别潜在的问题",
+      "替代全部人工审核与法律判断"
+    ],
+    "answers": [
+      2
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-099",
+    "source": {
+      "sheet": "资料1",
+      "row": 99
+    },
+    "originalPrompt": "在企业级交换机上，STP（生成树协议）的主要作用是（）。",
+    "prompt": "在企业级交换机上，STP（生成树协议）的主要作用是（）。",
+    "category": "网络设备",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "用于防止广播风暴和环路",
+        "letter": "D"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "STP构建无环二层拓扑，避免循环转发导致广播风暴。",
+    "options": [
+      "用于防止广播风暴和环路",
+      "分配公网域名",
+      "替代杀毒软件",
+      "自动加密所有文件"
+    ],
+    "answers": [
+      0
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "1-100",
+    "source": {
+      "sheet": "资料1",
+      "row": 100
+    },
+    "originalPrompt": "在企业级交换机上，启用哪种功能可以帮助检测和防止MAC地址欺骗攻击（）。",
+    "prompt": "在企业级交换机上，启用哪种功能可以帮助检测和防止MAC地址欺骗攻击（）。",
+    "category": "网络设备",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "端口安全",
+        "letter": "A"
+      }
+    ],
+    "status": "source",
+    "type": "single",
+    "explanation": "端口安全限制端口学习到的MAC及数量，可减轻未授权接入；还需结合认证与绑定机制。",
+    "options": [
+      "屏幕节能",
+      "端口安全",
+      "桌面主题",
+      "打印队列"
+    ],
+    "answers": [
+      1
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "2-001",
+    "source": {
+      "sheet": "资料2",
+      "row": 1
+    },
+    "originalPrompt": "公民道德的行为规范包括（）。",
+    "prompt": "公民道德的行为规范包括（）。",
+    "category": "职业道德",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "爱国守法",
+        "letter": "A"
+      },
+      {
+        "text": "明礼诚信",
+        "letter": "B"
+      },
+      {
+        "text": "团结友善",
+        "letter": "C"
+      },
+      {
+        "text": "勤俭自强",
+        "letter": "D"
+      },
+      {
+        "text": "敬业奉献",
+        "letter": "E"
+      }
+    ],
+    "status": "source",
+    "type": "multi",
+    "explanation": "公民基本道德规范共五项，题库中的五项均选。",
+    "options": [
+      "勤俭自强",
+      "敬业奉献",
+      "唯利是图",
+      "明礼诚信",
+      "弄虚作假",
+      "爱国守法",
+      "团结友善"
+    ],
+    "answers": [
+      0,
+      1,
+      3,
+      5,
+      6
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "2-002",
+    "source": {
+      "sheet": "资料2",
+      "row": 2
+    },
+    "originalPrompt": "以下不属于公民道德行为规范的有（）。",
+    "prompt": "以下不属于公民道德行为规范的有（）。",
+    "category": "职业道德",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "爱祖国",
+        "letter": "A"
+      },
+      {
+        "text": "爱人民",
+        "letter": "B"
+      },
+      {
+        "text": "爱劳动",
+        "letter": "C"
+      },
+      {
+        "text": "爱科学",
+        "letter": "D"
+      },
+      {
+        "text": "爱社会主义",
+        "letter": "E"
+      }
+    ],
+    "status": "source",
+    "type": "multi",
+    "explanation": "“五爱”是社会公德的另一组表述，不属于该题列举的公民基本道德规范名称。",
+    "options": [
+      "爱科学",
+      "爱社会主义",
+      "团结友善",
+      "诚实守信",
+      "爱祖国",
+      "爱人民",
+      "爱劳动"
+    ],
+    "answers": [
+      0,
+      1,
+      4,
+      5,
+      6
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "2-003",
+    "source": {
+      "sheet": "资料2",
+      "row": 3
+    },
+    "originalPrompt": "职业道德行为修养的内容包括（）。",
+    "prompt": "职业道德行为修养的内容包括（）。",
+    "category": "职业道德",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "爱岗敬业",
+        "letter": "A"
+      },
+      {
+        "text": "诚实守信",
+        "letter": "B"
+      },
+      {
+        "text": "办事公道",
+        "letter": "C"
+      },
+      {
+        "text": "服务群众",
+        "letter": "D"
+      },
+      {
+        "text": "奉献社会",
+        "letter": "E"
+      }
+    ],
+    "status": "source",
+    "type": "multi",
+    "explanation": "职业道德五项要求与资料1第一题对应。",
+    "options": [
+      "诚实守信",
+      "损人利己",
+      "徇私舞弊",
+      "爱岗敬业",
+      "奉献社会",
+      "办事公道",
+      "服务群众"
+    ],
+    "answers": [
+      0,
+      3,
+      4,
+      5,
+      6
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "2-004",
+    "source": {
+      "sheet": "资料2",
+      "row": 4
+    },
+    "originalPrompt": "下面关于闪存说法正确的有（）。",
+    "prompt": "下面关于闪存说法正确的有（）。",
+    "category": "系统与基础",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "体积小",
+        "letter": "A"
+      },
+      {
+        "text": "抗摔",
+        "letter": "B"
+      },
+      {
+        "text": "搞震",
+        "letter": "C"
+      },
+      {
+        "text": "读写速度快",
+        "letter": "D"
+      }
+    ],
+    "status": "source",
+    "type": "multi",
+    "explanation": "闪存是非易失存储，体积小、抗震；原文“搞震”按“抗震”理解。",
+    "options": [
+      "体积小",
+      "读写速度快",
+      "只能读取不能写入",
+      "抗摔",
+      "抗震",
+      "断电后数据必然全部丢失"
+    ],
+    "answers": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "2-005",
+    "source": {
+      "sheet": "资料2",
+      "row": 5
+    },
+    "originalPrompt": "计算机的内部存储器有（）。",
+    "prompt": "计算机的内部存储器有（）。",
+    "category": "系统与基础",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "RAM",
+        "letter": "A"
+      },
+      {
+        "text": "ROM",
+        "letter": "B"
+      }
+    ],
+    "status": "source",
+    "type": "multi",
+    "explanation": "RAM与ROM均属于内存类别，硬盘和光盘是外部存储。",
+    "options": [
+      "ROM",
+      "机械硬盘",
+      "光盘",
+      "RAM"
+    ],
+    "answers": [
+      0,
+      3
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "2-006",
+    "source": {
+      "sheet": "资料2",
+      "row": 6
+    },
+    "originalPrompt": "下面属于ROM内存的有（）。",
+    "prompt": "下面属于ROM内存的有（）。",
+    "category": "系统与基础",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "PROM",
+        "letter": "A"
+      },
+      {
+        "text": "EPROM",
+        "letter": "B"
+      }
+    ],
+    "status": "source",
+    "type": "multi",
+    "explanation": "PROM和EPROM属于只读存储器家族；DRAM/SRAM属于RAM。",
+    "options": [
+      "PROM",
+      "EPROM",
+      "DRAM",
+      "SRAM"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "2-007",
+    "source": {
+      "sheet": "资料2",
+      "row": 7
+    },
+    "originalPrompt": "数字签名机制可以实现（）。",
+    "prompt": "数字签名机制可以实现（）。",
+    "category": "密码与认证",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "鉴别服务",
+        "letter": "A"
+      },
+      {
+        "text": "数据完整性服务",
+        "letter": "B"
+      },
+      {
+        "text": "防抵赖性",
+        "letter": "C"
+      }
+    ],
+    "status": "source",
+    "type": "multi",
+    "explanation": "数字签名用于身份鉴别、完整性验证与不可否认性，不直接隐藏内容。",
+    "options": [
+      "保证消息内容保密",
+      "保证数据压缩率",
+      "数据完整性服务",
+      "鉴别服务",
+      "防抵赖性"
+    ],
+    "answers": [
+      2,
+      3,
+      4
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "2-008",
+    "source": {
+      "sheet": "资料2",
+      "row": 8
+    },
+    "originalPrompt": "网络安全模型包括（）。",
+    "prompt": "网络安全模型包括（）。",
+    "category": "系统与基础",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "PPDR",
+        "letter": "A"
+      },
+      {
+        "text": "PDRR",
+        "letter": "B"
+      },
+      {
+        "text": "MPDRR",
+        "letter": "C"
+      }
+    ],
+    "status": "source",
+    "type": "multi",
+    "explanation": "PPDR、PDRR、MPDRR为资料采用的安全模型。",
+    "options": [
+      "PPDR",
+      "FTP",
+      "HTTP",
+      "PDRR",
+      "MPDRR"
+    ],
+    "answers": [
+      0,
+      3,
+      4
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "2-009",
+    "source": {
+      "sheet": "资料2",
+      "row": 9
+    },
+    "originalPrompt": "TESC安全等级中，B类有（）级别。",
+    "prompt": "TESC安全等级中，B类有（）级别。",
+    "category": "系统与基础",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "B1",
+        "letter": "A"
+      },
+      {
+        "text": "B2",
+        "letter": "B"
+      },
+      {
+        "text": "B3",
+        "letter": "C"
+      }
+    ],
+    "status": "source",
+    "type": "multi",
+    "explanation": "题目“TESC”应为TCSEC，B类包含B1、B2、B3。",
+    "options": [
+      "B1",
+      "B3",
+      "B4",
+      "A2",
+      "B2"
+    ],
+    "answers": [
+      0,
+      1,
+      4
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "2-010",
+    "source": {
+      "sheet": "资料2",
+      "row": 10
+    },
+    "originalPrompt": "下面关于数字签名说法正确的是（）。",
+    "prompt": "下面关于数字签名说法正确的是（）。",
+    "category": "密码与认证",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "数字签名用私钥加密",
+        "letter": "A"
+      },
+      {
+        "text": "数字签名用公钥解密",
+        "letter": "B"
+      },
+      {
+        "text": "数字签名可防止抵赖",
+        "letter": "C"
+      },
+      {
+        "text": "数字签名用非对称加密技术",
+        "letter": "D"
+      }
+    ],
+    "status": "source",
+    "type": "multi",
+    "explanation": "签名用私钥生成、公钥验证；原文“私钥加密/公钥解密”是教学简化，并非所有算法原理。",
+    "options": [
+      "数字签名用公钥解密",
+      "数字签名用私钥加密",
+      "数字签名可防止抵赖",
+      "数字签名用非对称加密技术",
+      "只使用对称密钥",
+      "签名必须公开私钥"
+    ],
+    "answers": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "2-011",
+    "source": {
+      "sheet": "资料2",
+      "row": 11
+    },
+    "originalPrompt": "数字签名要用到哪些密钥（）。",
+    "prompt": "数字签名要用到哪些密钥（）。",
+    "category": "密码与认证",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "发送方的私钥",
+        "letter": "A"
+      },
+      {
+        "text": "发送方的公钥",
+        "letter": "B"
+      }
+    ],
+    "status": "source",
+    "type": "multi",
+    "explanation": "发送方私钥签名，对应公钥验证，私钥不应共享。",
+    "options": [
+      "交换机的管理密码",
+      "接收方的私钥",
+      "发送方的私钥",
+      "发送方的公钥"
+    ],
+    "answers": [
+      2,
+      3
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "2-012",
+    "source": {
+      "sheet": "资料2",
+      "row": 12
+    },
+    "originalPrompt": "属于同一个冲突域的设备有（）。",
+    "prompt": "属于同一个冲突域的设备有（）。",
+    "category": "网络设备",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "集线器的所有端口",
+        "letter": "A"
+      },
+      {
+        "text": "二层交换机一个端口",
+        "letter": "B"
+      }
+    ],
+    "status": "source",
+    "type": "multi",
+    "explanation": "集线器所有端口共享冲突域；交换机每端口独立，全双工链路通常不发生碰撞。",
+    "options": [
+      "二层交换机一个端口",
+      "路由器所有接口共同构成单一冲突域",
+      "交换机所有端口共同构成单一冲突域",
+      "集线器的所有端口"
+    ],
+    "answers": [
+      0,
+      3
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "2-013",
+    "source": {
+      "sheet": "资料2",
+      "row": 13
+    },
+    "originalPrompt": "下面属于互联设备的有（）。",
+    "prompt": "下面属于互联设备的有（）。",
+    "category": "网络设备",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "路由器",
+        "letter": "A"
+      },
+      {
+        "text": "交换机",
+        "letter": "B"
+      },
+      {
+        "text": "防火墙",
+        "letter": "C"
+      },
+      {
+        "text": "集线器",
+        "letter": "D"
+      },
+      {
+        "text": "网卡",
+        "letter": "E"
+      }
+    ],
+    "status": "source",
+    "type": "multi",
+    "explanation": "这些设备参与网络互联或接入，网卡提供主机的网络接口。",
+    "options": [
+      "路由器",
+      "打印机",
+      "显示器",
+      "交换机",
+      "防火墙",
+      "网卡",
+      "集线器"
+    ],
+    "answers": [
+      0,
+      3,
+      4,
+      5,
+      6
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "2-014",
+    "source": {
+      "sheet": "资料2",
+      "row": 14
+    },
+    "originalPrompt": "二层交换机有（）功能。",
+    "prompt": "二层交换机有（）功能。",
+    "category": "网络设备",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "学习MAC地址",
+        "letter": "A"
+      },
+      {
+        "text": "转发/过滤",
+        "letter": "B"
+      },
+      {
+        "text": "清除回路",
+        "letter": "C"
+      },
+      {
+        "text": "划分vlan",
+        "letter": "D"
+      }
+    ],
+    "status": "source",
+    "type": "multi",
+    "explanation": "二层交换机学习MAC并转发过滤，可通过STP处理回路并支持VLAN。",
+    "options": [
+      "按目的IP执行跨网段路由",
+      "划分vlan",
+      "学习MAC地址",
+      "运行应用业务代码",
+      "清除回路",
+      "转发/过滤"
+    ],
+    "answers": [
+      1,
+      2,
+      4,
+      5
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "2-015",
+    "source": {
+      "sheet": "资料2",
+      "row": 15
+    },
+    "originalPrompt": "交机类型有（）。",
+    "prompt": "交机类型有（）。",
+    "category": "系统与基础",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "二层交换机",
+        "letter": "A"
+      },
+      {
+        "text": "三层交换机",
+        "letter": "B"
+      },
+      {
+        "text": "四层交换机",
+        "letter": "C"
+      },
+      {
+        "text": "应用层交换机",
+        "letter": "D"
+      },
+      {
+        "text": "物理层交换机",
+        "letter": "E"
+      }
+    ],
+    "status": "pending",
+    "type": "multi",
+    "explanation": "原文“交机”按“交换机”理解；物理层交换设备等分类依教材口径，保留资料答案。",
+    "options": [
+      "不具备任何网络接口的电源开关",
+      "四层交换机",
+      "纯机械开关",
+      "三层交换机",
+      "二层交换机",
+      "物理层交换机",
+      "应用层交换机"
+    ],
+    "answers": [
+      1,
+      3,
+      4,
+      5,
+      6
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": false
+  },
+  {
+    "id": "2-016",
+    "source": {
+      "sheet": "资料2",
+      "row": 16
+    },
+    "originalPrompt": "路由器功能包括（）。",
+    "prompt": "路由器功能包括（）。",
+    "category": "网络设备",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "路由选择",
+        "letter": "A"
+      },
+      {
+        "text": "协议转换",
+        "letter": "B"
+      },
+      {
+        "text": "流量控制",
+        "letter": "C"
+      },
+      {
+        "text": "隔离广播",
+        "letter": "D"
+      }
+    ],
+    "status": "source",
+    "type": "multi",
+    "explanation": "路由器执行选路转发，并可提供协议适配、流量管理和广播域隔离。",
+    "options": [
+      "直接放大模拟信号",
+      "隔离广播",
+      "替代所有磁盘备份",
+      "流量控制",
+      "协议转换",
+      "路由选择"
+    ],
+    "answers": [
+      1,
+      3,
+      4,
+      5
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "2-017",
+    "source": {
+      "sheet": "资料2",
+      "row": 17
+    },
+    "originalPrompt": "路由器的优点有（）。",
+    "prompt": "路由器的优点有（）。",
+    "category": "网络设备",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "互联异构网络",
+        "letter": "A"
+      },
+      {
+        "text": "隔离广播域",
+        "letter": "B"
+      },
+      {
+        "text": "动态维护路由信息",
+        "letter": "C"
+      },
+      {
+        "text": "提供安全机制",
+        "letter": "D"
+      }
+    ],
+    "status": "source",
+    "type": "multi",
+    "explanation": "路由器能够连接不同网络，控制广播传播并提供路由更新和安全机制。",
+    "options": [
+      "互联异构网络",
+      "隔离广播域",
+      "自动修复所有终端漏洞",
+      "保证互联网永不丢包",
+      "提供安全机制",
+      "动态维护路由信息"
+    ],
+    "answers": [
+      0,
+      1,
+      4,
+      5
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "2-018",
+    "source": {
+      "sheet": "资料2",
+      "row": 18
+    },
+    "originalPrompt": "《网络安全法》的基本原则有（ ）。",
+    "prompt": "《网络安全法》的基本原则有（ ）。",
+    "category": "法规与应急",
+    "references": [
+      "https://www.ghxrd.gov.cn/zlk_0/zcfg/202511/t20251110_229733.html"
+    ],
+    "originalAnswers": [
+      {
+        "text": "网络空间主权原则",
+        "letter": "A"
+      },
+      {
+        "text": "网络安全与信息化发展并重原则",
+        "letter": "B"
+      }
+    ],
+    "status": "source",
+    "type": "multi",
+    "explanation": "资料只列出两项原则，按其范围复习；现行法律还包含其他指导要求。",
+    "options": [
+      "免除所有安全责任",
+      "网络安全与信息化发展并重原则",
+      "网络空间主权原则",
+      "禁止全部信息化建设"
+    ],
+    "answers": [
+      1,
+      2
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "2-019",
+    "source": {
+      "sheet": "资料2",
+      "row": 19
+    },
+    "originalPrompt": "网络安全保护的基本要求包括（ ）。",
+    "prompt": "网络安全保护的基本要求包括（ ）。",
+    "category": "系统与基础",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "保障网络免受干扰、破坏或者未经授权的访问",
+        "letter": "A"
+      },
+      {
+        "text": "防止网络数据泄露或者被窃取、篡改",
+        "letter": "B"
+      },
+      {
+        "text": "保障网络数据的完整性、保密性和可用性",
+        "letter": "C"
+      }
+    ],
+    "status": "source",
+    "type": "multi",
+    "explanation": "保护要求围绕防干扰破坏和未授权访问，以及数据保密、完整与可用。",
+    "options": [
+      "保障网络免受干扰、破坏或者未经授权的访问",
+      "取消所有访问认证",
+      "保障网络数据的完整性、保密性和可用性",
+      "向任何人公开全部数据",
+      "防止网络数据泄露或者被窃取、篡改"
+    ],
+    "answers": [
+      0,
+      2,
+      4
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "2-020",
+    "source": {
+      "sheet": "资料2",
+      "row": 20
+    },
+    "originalPrompt": "下列术语属于网络攻击的类型的有（ ）。",
+    "prompt": "下列术语属于网络攻击的类型的有（ ）。",
+    "category": "系统与基础",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "拒绝服务攻击（DoS）",
+        "letter": "A"
+      },
+      {
+        "text": "跨站点脚本（XSS）",
+        "letter": "B"
+      },
+      {
+        "text": "分布式拒绝服务（DDoS）",
+        "letter": "C"
+      },
+      {
+        "text": "字典攻击（Dictionary attack）",
+        "letter": "D"
+      }
+    ],
+    "status": "pending",
+    "type": "multi",
+    "explanation": "DoS、DDoS、XSS和字典攻击均是攻击类型；原文C前缀按选项标记清除。",
+    "options": [
+      "正常定期备份",
+      "拒绝服务攻击（DoS）",
+      "字典攻击（Dictionary attack）",
+      "跨站点脚本（XSS）",
+      "分布式拒绝服务（DDoS）",
+      "TLS安全传输"
+    ],
+    "answers": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": false
+  },
+  {
+    "id": "2-021",
+    "source": {
+      "sheet": "资料2",
+      "row": 21
+    },
+    "originalPrompt": "下列术语属于网络安全的认证的有（ ）。",
+    "prompt": "下列术语属于网络安全的认证的有（ ）。",
+    "category": "系统与基础",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "认证信息系统审核员（CISA）",
+        "letter": "A"
+      },
+      {
+        "text": "信息系统安全认证专家（CISSP）",
+        "letter": "B"
+      },
+      {
+        "text": "认证信息系统安全经理（CISM）",
+        "letter": "C"
+      },
+      {
+        "text": "证书（Certificate）",
+        "letter": "D"
+      },
+      {
+        "text": "凭据（Credentials）",
+        "letter": "E"
+      }
+    ],
+    "status": "pending",
+    "type": "multi",
+    "explanation": "本题把专业资格认证与身份凭据混在一起：前三项为资格认证，证书与凭据属身份认证相关概念，保留原题但需核实题意。",
+    "options": [
+      "认证信息系统安全经理（CISM）",
+      "硬盘分区表",
+      "凭据（Credentials）",
+      "认证信息系统审核员（CISA）",
+      "证书（Certificate）",
+      "普通显示器",
+      "信息系统安全认证专家（CISSP）"
+    ],
+    "answers": [
+      0,
+      2,
+      3,
+      4,
+      6
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": false
+  },
+  {
+    "id": "2-022",
+    "source": {
+      "sheet": "资料2",
+      "row": 22
+    },
+    "originalPrompt": "《中华人民共和国网络安全法》规定，网络运营者应当按照网络安全等级保护制度的要求，履行安全保护义务，否则将承担（ ）。",
+    "prompt": "《中华人民共和国网络安全法》规定，网络运营者应当按照网络安全等级保护制度的要求，履行安全保护义务，否则将承担（ ）。",
+    "category": "法规与应急",
+    "references": [
+      "https://www.ghxrd.gov.cn/zlk_0/zcfg/202511/t20251110_229733.html"
+    ],
+    "originalAnswers": [
+      {
+        "text": "罚款",
+        "letter": "A"
+      },
+      {
+        "text": "没收违法所得",
+        "letter": "B"
+      },
+      {
+        "text": "停产停业",
+        "letter": "C"
+      },
+      {
+        "text": "吊销许可证或者营业执照",
+        "letter": "D"
+      }
+    ],
+    "status": "pending",
+    "type": "multi",
+    "explanation": "原答案把不同违法行为的法律责任混列；等保义务的具体处罚须查现行条文，不能笼统全选。",
+    "options": [
+      "没收违法所得",
+      "停产停业",
+      "只需修改桌面主题",
+      "吊销许可证或者营业执照",
+      "只要设备昂贵就永远免责",
+      "罚款"
+    ],
+    "answers": [
+      0,
+      1,
+      3,
+      5
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": false
+  },
+  {
+    "id": "2-023",
+    "source": {
+      "sheet": "资料2",
+      "row": 23
+    },
+    "originalPrompt": "《中华人民共和国网络安全法》规定，网络产品、服务的提供者不得设置恶意程序，发现其产品、服务存在安全缺陷、漏洞等风险时，应当（ ）。",
+    "prompt": "《中华人民共和国网络安全法》规定，网络产品、服务的提供者不得设置恶意程序，发现其产品、服务存在安全缺陷、漏洞等风险时，应当（ ）。",
+    "category": "法规与应急",
+    "references": [
+      "https://www.ghxrd.gov.cn/zlk_0/zcfg/202511/t20251110_229733.html"
+    ],
+    "originalAnswers": [
+      {
+        "text": "立即采取补救措施",
+        "letter": "A"
+      },
+      {
+        "text": "及时告知用户",
+        "letter": "B"
+      },
+      {
+        "text": "向有关主管部门报告",
+        "letter": "C"
+      }
+    ],
+    "status": "source",
+    "type": "multi",
+    "explanation": "提供者发现风险应采取补救措施，按规定通知用户并向主管部门报告。",
+    "options": [
+      "发现漏洞后不采取任何措施",
+      "隐瞒风险不通知用户",
+      "及时告知用户",
+      "向有关主管部门报告",
+      "立即采取补救措施"
+    ],
+    "answers": [
+      2,
+      3,
+      4
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "2-024",
+    "source": {
+      "sheet": "资料2",
+      "row": 24
+    },
+    "originalPrompt": "以下不属于加固企业级交换机的物理安全的方法有（）。",
+    "prompt": "以下不属于加固企业级交换机的物理安全的方法有（）。",
+    "category": "网络设备",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "定期更改管理员密码",
+        "letter": "A"
+      },
+      {
+        "text": "使用强密码策略",
+        "letter": "B"
+      },
+      {
+        "text": "将交换机随意摆放",
+        "letter": "C"
+      },
+      {
+        "text": "更新操作系统",
+        "letter": "D"
+      }
+    ],
+    "status": "source",
+    "type": "multi",
+    "explanation": "密码和软件更新属于逻辑加固，随意摆放也不属于物理加固方法。",
+    "options": [
+      "把设备放在受控机房",
+      "将交换机随意摆放",
+      "定期更改管理员密码",
+      "更新操作系统",
+      "门禁与设备上锁",
+      "使用强密码策略"
+    ],
+    "answers": [
+      1,
+      2,
+      3,
+      5
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "2-025",
+    "source": {
+      "sheet": "资料2",
+      "row": 25
+    },
+    "originalPrompt": "以下不属于端口安全（Port Security）的主要目标是（）。",
+    "prompt": "以下不属于端口安全（Port Security）的主要目标是（）。",
+    "category": "网络设备",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "开启端口",
+        "letter": "A"
+      },
+      {
+        "text": "防止所有网络流量",
+        "letter": "B"
+      },
+      {
+        "text": "增加网络延迟",
+        "letter": "C"
+      },
+      {
+        "text": "提供更多可用端口",
+        "letter": "D"
+      }
+    ],
+    "status": "source",
+    "type": "multi",
+    "explanation": "端口安全目标是限制端口接入设备；不是增加端口数量或阻止所有正常流量。",
+    "options": [
+      "阻止未授权设备接入",
+      "提供更多可用端口",
+      "限制接入MAC数量",
+      "增加网络延迟",
+      "开启端口",
+      "防止所有网络流量"
+    ],
+    "answers": [
+      1,
+      3,
+      4,
+      5
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "2-026",
+    "source": {
+      "sheet": "资料2",
+      "row": 26
+    },
+    "originalPrompt": "哪种配置不能减少企业级交换机的攻击面（）",
+    "prompt": "哪种配置不能减少企业级交换机的攻击面（）",
+    "category": "网络设备",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "启用所有端口",
+        "letter": "A"
+      },
+      {
+        "text": "禁用VLAN",
+        "letter": "B"
+      },
+      {
+        "text": "增加所有端口的带宽",
+        "letter": "D"
+      }
+    ],
+    "status": "source",
+    "type": "multi",
+    "explanation": "启用所有端口或取消隔离会扩大暴露面；增加带宽本身不会减少攻击面。",
+    "options": [
+      "启用所有端口",
+      "关闭未使用端口",
+      "限制管理面可达范围",
+      "增加所有端口的带宽",
+      "禁用VLAN"
+    ],
+    "answers": [
+      0,
+      3,
+      4
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "2-027",
+    "source": {
+      "sheet": "资料2",
+      "row": 27
+    },
+    "originalPrompt": "在企业级路由器上，下列哪些方法不能提高访问控制的安全性（）。",
+    "prompt": "在企业级路由器上，下列哪些方法不能提高访问控制的安全性（）。",
+    "category": "网络设备",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "禁用所有访问控制列表（ACL）",
+        "letter": "A"
+      },
+      {
+        "text": "定期更改访问密码",
+        "letter": "B"
+      },
+      {
+        "text": "使用相同的ACL规则在所有接口上",
+        "letter": "C"
+      },
+      {
+        "text": "随意操作都不影响",
+        "letter": "D"
+      }
+    ],
+    "status": "pending",
+    "type": "multi",
+    "explanation": "“定期更改访问密码”通常有助访问安全，原答案将其列为不能提高安全性，题意或答案存在问题。",
+    "options": [
+      "使用相同的ACL规则在所有接口上",
+      "最小权限原则下配置ACL",
+      "定期更改访问密码",
+      "禁用所有访问控制列表（ACL）",
+      "只允许受信管理地址",
+      "随意操作都不影响"
+    ],
+    "answers": [
+      0,
+      2,
+      3,
+      5
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": false
+  },
+  {
+    "id": "2-028",
+    "source": {
+      "sheet": "资料2",
+      "row": 28
+    },
+    "originalPrompt": "关于企业级路由器上管理员密码设置，以下说法错误的是()。",
+    "prompt": "关于企业级路由器上管理员密码设置，以下说法错误的是()。",
+    "category": "网络设备",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "定期更改密码可以减缓路由器性能",
+        "letter": "A"
+      },
+      {
+        "text": "更改密码是多余的，不会提高安全性",
+        "letter": "B"
+      },
+      {
+        "text": "定期更改密码不能减少潜在的攻击窗口",
+        "letter": "C"
+      },
+      {
+        "text": "管理密码永远不应该更改",
+        "letter": "D"
+      }
+    ],
+    "status": "source",
+    "type": "multi",
+    "explanation": "题库列出的四项错误断言均否认凭证维护作用；具体轮换应结合策略和泄露风险。",
+    "options": [
+      "定期更改密码不能减少潜在的攻击窗口",
+      "设置唯一强密码",
+      "定期更改密码可以减缓路由器性能",
+      "限制管理面访问来源",
+      "管理密码永远不应该更改",
+      "更改密码是多余的，不会提高安全性"
+    ],
+    "answers": [
+      0,
+      2,
+      4,
+      5
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "2-029",
+    "source": {
+      "sheet": "资料2",
+      "row": 29
+    },
+    "originalPrompt": "在企业级路由器上，可以运行的协议包括（）",
+    "prompt": "在企业级路由器上，可以运行的协议包括（）",
+    "category": "网络设备",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "SSH",
+        "letter": "A"
+      },
+      {
+        "text": "Telnet",
+        "letter": "B"
+      },
+      {
+        "text": "HTTP",
+        "letter": "C"
+      },
+      {
+        "text": "ICMP",
+        "letter": "D"
+      },
+      {
+        "text": "DHCP",
+        "letter": "E"
+      }
+    ],
+    "status": "source",
+    "type": "multi",
+    "explanation": "列举协议可在路由器上作为服务或网络功能运行，但Telnet/HTTP明文管理应谨慎使用。",
+    "options": [
+      "HTTP",
+      "ICMP",
+      "SATA",
+      "SSH",
+      "HDMI",
+      "DHCP",
+      "Telnet"
+    ],
+    "answers": [
+      0,
+      1,
+      3,
+      5,
+      6
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "2-030",
+    "source": {
+      "sheet": "资料2",
+      "row": 30
+    },
+    "originalPrompt": "为了加强Juniper路由器的安全性，不能使用以下（）命令来配置ACL规则。",
+    "prompt": "为了加强Juniper路由器的安全性，不能使用以下（）命令来配置ACL规则。",
+    "category": "网络设备",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "set interfaces ge-0/0/0 unit 0 family inet address 192.168.1.1/24",
+        "letter": "A"
+      },
+      {
+        "text": "set system ports console insecure",
+        "letter": "B"
+      },
+      {
+        "text": "set firewall filter input-filter term 1 from source-address 0.0.0.0/0 then accept",
+        "letter": "C"
+      },
+      {
+        "text": "aaa authentication login default local",
+        "letter": "D"
+      },
+      {
+        "text": "enable secret PASSWORD",
+        "letter": "E"
+      }
+    ],
+    "status": "pending",
+    "type": "multi",
+    "explanation": "原题混合接口、控制台设置及Cisco命令；第三项也不是完整的标准Junos过滤器语法，不能作为准确配置指南。",
+    "options": [
+      "set firewall filter input-filter term 1 from source-address 0.0.0.0/0 then accept",
+      "set system ports console insecure",
+      "set firewall family inet filter F term T then discard",
+      "enable secret PASSWORD",
+      "set firewall family inet filter F term T from source-address 192.0.2.0/24",
+      "aaa authentication login default local",
+      "set interfaces ge-0/0/0 unit 0 family inet address 192.168.1.1/24"
+    ],
+    "answers": [
+      0,
+      1,
+      3,
+      5,
+      6
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": false
+  },
+  {
+    "id": "2-031",
+    "source": {
+      "sheet": "资料2",
+      "row": 31
+    },
+    "originalPrompt": "以下哪些命令不能用于在Cisco路由器上启用SSH远程管理（）。",
+    "prompt": "以下哪些命令不能用于在Cisco路由器上启用SSH远程管理（）。",
+    "category": "网络设备",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "enable password",
+        "letter": "A"
+      },
+      {
+        "text": "line vty 0 4",
+        "letter": "B"
+      },
+      {
+        "text": "switchport port-security maximum 10",
+        "letter": "C"
+      },
+      {
+        "text": "access-list 101 permit tcp any any eq 22",
+        "letter": "D"
+      },
+      {
+        "text": "interface FastEthernet0/1",
+        "letter": "E"
+      }
+    ],
+    "status": "pending",
+    "type": "multi",
+    "explanation": "line vty是SSH配置流程相关命令，虽不能单独开启SSH；原题将其列为“不能”有歧义。",
+    "options": [
+      "ip ssh version 2",
+      "crypto key generate rsa",
+      "line vty 0 4",
+      "interface FastEthernet0/1",
+      "enable password",
+      "switchport port-security maximum 10",
+      "access-list 101 permit tcp any any eq 22"
+    ],
+    "answers": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": false
+  },
+  {
+    "id": "2-032",
+    "source": {
+      "sheet": "资料2",
+      "row": 32
+    },
+    "originalPrompt": "防火墙的主要功能不包括（）。",
+    "prompt": "防火墙的主要功能不包括（）。",
+    "category": "安全防护",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "数据加密",
+        "letter": "A"
+      },
+      {
+        "text": "网络连接",
+        "letter": "B"
+      },
+      {
+        "text": "网络解密",
+        "letter": "C"
+      },
+      {
+        "text": "文件备份",
+        "letter": "D"
+      }
+    ],
+    "status": "pending",
+    "type": "multi",
+    "explanation": "基础防火墙职责为策略过滤；加解密可由带VPN功能的设备附带提供，“网络连接”也表述含糊，按原范围复习。",
+    "options": [
+      "基于策略允许或拒绝流量",
+      "文件备份",
+      "网络连接",
+      "限制不可信网络访问",
+      "数据加密",
+      "网络解密"
+    ],
+    "answers": [
+      1,
+      2,
+      4,
+      5
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": false
+  },
+  {
+    "id": "2-033",
+    "source": {
+      "sheet": "资料2",
+      "row": 33
+    },
+    "originalPrompt": "下面哪个不是网络地址转换（NAT）的主要功能之一（）。",
+    "prompt": "下面哪个不是网络地址转换（NAT）的主要功能之一（）。",
+    "category": "安全防护",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "防止物理攻击",
+        "letter": "A"
+      },
+      {
+        "text": "保护网络设备",
+        "letter": "B"
+      },
+      {
+        "text": "提高网络速度",
+        "letter": "C"
+      },
+      {
+        "text": "隔离网络流量",
+        "letter": "D"
+      }
+    ],
+    "status": "pending",
+    "type": "multi",
+    "explanation": "NAT核心是地址/端口映射，并非物理防护或一般加速；“保护网络设备”需明确具体含义。",
+    "options": [
+      "保护网络设备",
+      "复用公网地址端口",
+      "隔离网络流量",
+      "把私有地址映射为公网地址",
+      "防止物理攻击",
+      "提高网络速度"
+    ],
+    "answers": [
+      0,
+      2,
+      4,
+      5
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": false
+  },
+  {
+    "id": "2-034",
+    "source": {
+      "sheet": "资料2",
+      "row": 34
+    },
+    "originalPrompt": "下列关于防火墙的负载均衡能力描述，错误的是（）。",
+    "prompt": "下列关于防火墙的负载均衡能力描述，错误的是（）。",
+    "category": "安全防护",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "防火墙的颜色",
+        "letter": "A"
+      },
+      {
+        "text": "防火墙的性能",
+        "letter": "B"
+      },
+      {
+        "text": "防火墙的价格",
+        "letter": "C"
+      },
+      {
+        "text": "防火墙的物理尺寸",
+        "letter": "D"
+      }
+    ],
+    "status": "pending",
+    "type": "multi",
+    "explanation": "原题“性能”也可能与负载均衡能力有关，四个答案不能直接视为同等错误，需核实。",
+    "options": [
+      "结合健康检查调度流量",
+      "防火墙的颜色",
+      "防火墙的价格",
+      "按连接分配到多个处理节点",
+      "防火墙的性能",
+      "防火墙的物理尺寸"
+    ],
+    "answers": [
+      1,
+      2,
+      4,
+      5
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": false
+  },
+  {
+    "id": "2-035",
+    "source": {
+      "sheet": "资料2",
+      "row": 35
+    },
+    "originalPrompt": "防火墙性能指标中，下列哪项不是描述防火墙处理流量的能力（）。",
+    "prompt": "防火墙性能指标中，下列哪项不是描述防火墙处理流量的能力（）。",
+    "category": "安全防护",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "内存大小",
+        "letter": "B"
+      },
+      {
+        "text": "外壳材质",
+        "letter": "C"
+      },
+      {
+        "text": "颜色",
+        "letter": "D"
+      },
+      {
+        "text": "价格",
+        "letter": "E"
+      }
+    ],
+    "status": "pending",
+    "type": "multi",
+    "explanation": "吞吐量、连接数等直接衡量处理能力；内存会间接影响容量，但不是直接的流量处理指标。",
+    "options": [
+      "内存大小",
+      "每秒新建连接数",
+      "外壳材质",
+      "网络吞吐量",
+      "颜色",
+      "价格"
+    ],
+    "answers": [
+      0,
+      2,
+      4,
+      5
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": false
+  },
+  {
+    "id": "2-036",
+    "source": {
+      "sheet": "资料2",
+      "row": 36
+    },
+    "originalPrompt": "下列属于防火墙规则的有（）。",
+    "prompt": "下列属于防火墙规则的有（）。",
+    "category": "安全防护",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "隐式允许规则",
+        "letter": "A"
+      },
+      {
+        "text": "显式允许规则",
+        "letter": "B"
+      },
+      {
+        "text": "显式拒绝规则",
+        "letter": "C"
+      },
+      {
+        "text": "隐式拒绝规则",
+        "letter": "D"
+      },
+      {
+        "text": "源规则",
+        "letter": "E"
+      }
+    ],
+    "status": "source",
+    "type": "multi",
+    "explanation": "规则可显式允许/拒绝，未命中时应用默认行为，也可按源地址匹配。",
+    "options": [
+      "按机箱高度匹配的规则",
+      "隐式允许规则",
+      "隐式拒绝规则",
+      "显式允许规则",
+      "按屏幕颜色匹配的规则",
+      "显式拒绝规则",
+      "源规则"
+    ],
+    "answers": [
+      1,
+      2,
+      3,
+      5,
+      6
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "2-037",
+    "source": {
+      "sheet": "资料2",
+      "row": 37
+    },
+    "originalPrompt": "为了增加网络安全，防火墙管理员可以定期进行哪些操作（）。",
+    "prompt": "为了增加网络安全，防火墙管理员可以定期进行哪些操作（）。",
+    "category": "安全防护",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "提高防火墙规则的复杂性",
+        "letter": "A"
+      },
+      {
+        "text": "升级防火墙软件",
+        "letter": "B"
+      },
+      {
+        "text": "审查所有防火墙规则",
+        "letter": "C"
+      },
+      {
+        "text": "定期更新防火墙规则",
+        "letter": "D"
+      }
+    ],
+    "status": "pending",
+    "type": "multi",
+    "explanation": "升级软件、审查与更新规则有助安全；无目的增加复杂性会增加误配置风险，原答案此项待修正。",
+    "options": [
+      "公开管理员密码",
+      "取消全部访问限制",
+      "提高防火墙规则的复杂性",
+      "升级防火墙软件",
+      "定期更新防火墙规则",
+      "审查所有防火墙规则"
+    ],
+    "answers": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": false
+  },
+  {
+    "id": "2-038",
+    "source": {
+      "sheet": "资料2",
+      "row": 38
+    },
+    "originalPrompt": "在Linux中，下面哪些命令不能用于查看防火墙规则（）。",
+    "prompt": "在Linux中，下面哪些命令不能用于查看防火墙规则（）。",
+    "category": "安全防护",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "ifconfig",
+        "letter": "A"
+      },
+      {
+        "text": "ping",
+        "letter": "C"
+      },
+      {
+        "text": "ssh",
+        "letter": "D"
+      },
+      {
+        "text": "interface FastEthernet0/0",
+        "letter": "E"
+      }
+    ],
+    "status": "source",
+    "type": "multi",
+    "explanation": "ifconfig管理接口，ping测连通性，ssh远程登录；Cisco接口命令不适用于Linux防火墙规则查看。",
+    "options": [
+      "interface FastEthernet0/0",
+      "ifconfig",
+      "nft list ruleset",
+      "ssh",
+      "ping",
+      "iptables -L"
+    ],
+    "answers": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "2-039",
+    "source": {
+      "sheet": "资料2",
+      "row": 39
+    },
+    "originalPrompt": "下面哪些命令不能用于在Windows防火墙中打开指定端口（）。",
+    "prompt": "下面哪些命令不能用于在Windows防火墙中打开指定端口（）。",
+    "category": "网络设备",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "allow-port",
+        "letter": "A"
+      },
+      {
+        "text": "open-port",
+        "letter": "B"
+      },
+      {
+        "text": "block-port",
+        "letter": "D"
+      },
+      {
+        "text": "interface FastEthernet0/1",
+        "letter": "E"
+      }
+    ],
+    "status": "source",
+    "type": "multi",
+    "explanation": "allow-port等不是Windows原生命令；允许端口须创建具体规则，不能靠这些示意词。",
+    "options": [
+      "allow-port",
+      "New-NetFirewallRule",
+      "block-port",
+      "open-port",
+      "interface FastEthernet0/1",
+      "netsh advfirewall firewall add rule"
+    ],
+    "answers": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "2-040",
+    "source": {
+      "sheet": "资料2",
+      "row": 40
+    },
+    "originalPrompt": "木马的特点包括哪些（）？。",
+    "prompt": "木马的特点包括哪些（）？。",
+    "category": "应用与恶意代码",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "隐蔽性",
+        "letter": "A"
+      },
+      {
+        "text": "非授权性",
+        "letter": "B"
+      },
+      {
+        "text": "可控性",
+        "letter": "C"
+      },
+      {
+        "text": "高效性",
+        "letter": "D"
+      }
+    ],
+    "status": "pending",
+    "type": "multi",
+    "explanation": "木马常伪装正常软件并支持隐蔽远控；“高效性”不是所有木马必然具备的特征。",
+    "options": [
+      "所有木马都能自动自我复制",
+      "高效性",
+      "隐蔽性",
+      "可控性",
+      "非授权性",
+      "必须公开提示攻击者身份"
+    ],
+    "answers": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": false
+  },
+  {
+    "id": "2-041",
+    "source": {
+      "sheet": "资料2",
+      "row": 41
+    },
+    "originalPrompt": "僵尸网络的组成部分有哪些（）？。",
+    "prompt": "僵尸网络的组成部分有哪些（）？。",
+    "category": "系统与基础",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "僵尸程序",
+        "letter": "A"
+      },
+      {
+        "text": "僵尸计算机",
+        "letter": "B"
+      },
+      {
+        "text": "命令控制中心",
+        "letter": "C"
+      }
+    ],
+    "status": "source",
+    "type": "multi",
+    "explanation": "僵尸网络由受控主机、恶意程序和命令控制基础设施构成。",
+    "options": [
+      "普通离线文本文档",
+      "僵尸计算机",
+      "正常显示器",
+      "僵尸程序",
+      "命令控制中心"
+    ],
+    "answers": [
+      1,
+      3,
+      4
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "2-042",
+    "source": {
+      "sheet": "资料2",
+      "row": 42
+    },
+    "originalPrompt": "下面属于恶意代码的有（）？。",
+    "prompt": "下面属于恶意代码的有（）？。",
+    "category": "应用与恶意代码",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "病毒",
+        "letter": "A"
+      },
+      {
+        "text": "蠕虫",
+        "letter": "B"
+      },
+      {
+        "text": "木马",
+        "letter": "D"
+      }
+    ],
+    "status": "source",
+    "type": "multi",
+    "explanation": "病毒、蠕虫、木马均为恶意代码；正常软件不能只按文件格式判断为恶意。",
+    "options": [
+      "病毒",
+      "正常文本编辑器",
+      "木马",
+      "蠕虫",
+      "可信的系统补丁"
+    ],
+    "answers": [
+      0,
+      2,
+      3
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "2-043",
+    "source": {
+      "sheet": "资料2",
+      "row": 43
+    },
+    "originalPrompt": "应对操作系统安全漏洞的基本方法是什么？。",
+    "prompt": "应对操作系统安全漏洞的基本方法是什么？。",
+    "category": "应用与恶意代码",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "对默认安装进行必要的调整",
+        "letter": "A"
+      },
+      {
+        "text": "给所有用户设置严格的口令",
+        "letter": "B"
+      },
+      {
+        "text": "及时安装最新的安全补丁",
+        "letter": "C"
+      },
+      {
+        "text": "使用杀毒软件",
+        "letter": "E"
+      }
+    ],
+    "status": "source",
+    "type": "multi",
+    "explanation": "减少默认服务、加强口令、修补漏洞与使用安全工具形成纵深防御，杀毒不能替代补丁。",
+    "options": [
+      "公开所有账户密码",
+      "及时安装最新的安全补丁",
+      "给所有用户设置严格的口令",
+      "停止安装安全补丁",
+      "使用杀毒软件",
+      "对默认安装进行必要的调整"
+    ],
+    "answers": [
+      1,
+      2,
+      4,
+      5
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "2-044",
+    "source": {
+      "sheet": "资料2",
+      "row": 44
+    },
+    "originalPrompt": "禁止不需要的端口和禁用不需要的协议可以有效地减少Web服务器的攻击面对于只提供万维网服务\n的Windows服务器而言，下列哪些端口是需要禁止的（ ）。",
+    "prompt": "禁止不需要的端口和禁用不需要的协议可以有效地减少Web服务器的攻击面对于只提供万维网服务\n的Windows服务器而言，下列哪些端口是需要禁止的（ ）。",
+    "category": "网络设备",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "137",
+        "letter": "A"
+      },
+      {
+        "text": "139",
+        "letter": "B"
+      },
+      {
+        "text": "445",
+        "letter": "D"
+      }
+    ],
+    "status": "source",
+    "type": "multi",
+    "explanation": "137/139/445与NetBIOS及SMB有关；对外只提供Web服务时应限制这些非必要暴露端口。",
+    "options": [
+      "139",
+      "80",
+      "443",
+      "445",
+      "137"
+    ],
+    "answers": [
+      0,
+      3,
+      4
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "2-045",
+    "source": {
+      "sheet": "资料2",
+      "row": 45
+    },
+    "originalPrompt": "《网络安全法》的基本原则有（ ）。",
+    "prompt": "《网络安全法》的基本原则有（ ）。",
+    "category": "法规与应急",
+    "references": [
+      "https://www.ghxrd.gov.cn/zlk_0/zcfg/202511/t20251110_229733.html"
+    ],
+    "originalAnswers": [
+      {
+        "text": "网络空间主权原则",
+        "letter": "A"
+      },
+      {
+        "text": "网络安全与信息化发展并重原则",
+        "letter": "B"
+      }
+    ],
+    "status": "source",
+    "type": "multi",
+    "explanation": "与资料2第18题相同，仍保留原行便于核对。",
+    "options": [
+      "网络安全与信息化发展并重原则",
+      "免除所有安全责任",
+      "网络空间主权原则",
+      "禁止全部信息化建设"
+    ],
+    "answers": [
+      0,
+      2
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "2-046",
+    "source": {
+      "sheet": "资料2",
+      "row": 46
+    },
+    "originalPrompt": "网络安全保护的基本要求包括（ ）。",
+    "prompt": "网络安全保护的基本要求包括（ ）。",
+    "category": "系统与基础",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "保障网络免受干扰、破坏或者未经授权的访问",
+        "letter": "A"
+      },
+      {
+        "text": "防止网络数据泄露或者被窃取、篡改",
+        "letter": "B"
+      },
+      {
+        "text": "保障网络数据的完整性、保密性和可用性",
+        "letter": "C"
+      }
+    ],
+    "status": "source",
+    "type": "multi",
+    "explanation": "与资料2第19题相同，保护目标包括保密、完整和可用。",
+    "options": [
+      "保障网络免受干扰、破坏或者未经授权的访问",
+      "保障网络数据的完整性、保密性和可用性",
+      "防止网络数据泄露或者被窃取、篡改",
+      "取消所有访问认证",
+      "向任何人公开全部数据"
+    ],
+    "answers": [
+      0,
+      1,
+      2
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "2-047",
+    "source": {
+      "sheet": "资料2",
+      "row": 47
+    },
+    "originalPrompt": "下列术语属于网络攻击的类型的有（ ）。",
+    "prompt": "下列术语属于网络攻击的类型的有（ ）。",
+    "category": "系统与基础",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "拒绝服务攻击（DoS）",
+        "letter": "A"
+      },
+      {
+        "text": "跨站点脚本（XSS）",
+        "letter": "B"
+      },
+      {
+        "text": "分布式拒绝服务（DDoS）",
+        "letter": "C"
+      },
+      {
+        "text": "字典攻击（Dictionary attack）",
+        "letter": "D"
+      }
+    ],
+    "status": "source",
+    "type": "multi",
+    "explanation": "与资料2第20题相同，四项都是攻击类型。",
+    "options": [
+      "跨站点脚本（XSS）",
+      "字典攻击（Dictionary attack）",
+      "正常定期备份",
+      "拒绝服务攻击（DoS）",
+      "TLS安全传输",
+      "分布式拒绝服务（DDoS）"
+    ],
+    "answers": [
+      0,
+      1,
+      3,
+      5
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "2-048",
+    "source": {
+      "sheet": "资料2",
+      "row": 48
+    },
+    "originalPrompt": "下列术语属于网络安全的认证的有（ ）。",
+    "prompt": "下列术语属于网络安全的认证的有（ ）。",
+    "category": "系统与基础",
+    "references": [],
+    "originalAnswers": [
+      {
+        "text": "认证信息系统审核员（CISA）",
+        "letter": "A"
+      },
+      {
+        "text": "信息系统安全认证专家（CISSP）",
+        "letter": "B"
+      },
+      {
+        "text": "认证信息系统安全经理（CISM）",
+        "letter": "C"
+      },
+      {
+        "text": "证书（Certificate）",
+        "letter": "D"
+      },
+      {
+        "text": "凭据（Credentials）",
+        "letter": "E"
+      }
+    ],
+    "status": "pending",
+    "type": "multi",
+    "explanation": "与资料2第21题重复，同样存在资格认证与身份认证混用的问题。",
+    "options": [
+      "普通显示器",
+      "硬盘分区表",
+      "认证信息系统安全经理（CISM）",
+      "信息系统安全认证专家（CISSP）",
+      "认证信息系统审核员（CISA）",
+      "凭据（Credentials）",
+      "证书（Certificate）"
+    ],
+    "answers": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": false
+  },
+  {
+    "id": "2-049",
+    "source": {
+      "sheet": "资料2",
+      "row": 49
+    },
+    "originalPrompt": "网络安全事件应对的工作原则中，谁主管谁负责、谁运行谁负责的含义是（）。",
+    "prompt": "网络安全事件应对的工作原则中，谁主管谁负责、谁运行谁负责的含义是（）。",
+    "category": "法规与应急",
+    "references": [
+      "https://www.cac.gov.cn/2017-06/27/c_1121220113.htm"
+    ],
+    "originalAnswers": [
+      {
+        "text": "网络安全事件的预防和处置工作由各部门按照职责和权限负责",
+        "letter": "C"
+      },
+      {
+        "text": "网络安全事件的预防和处置工作由各单位按照建设运行的网络和信息系统负责",
+        "letter": "D"
+      }
+    ],
+    "status": "source",
+    "type": "multi",
+    "explanation": "主管部门按职责权限负责，运行单位按其建设运行的系统负责。",
+    "options": [
+      "网络安全事件的预防和处置工作由各部门按照职责和权限负责",
+      "网络安全事件的预防和处置工作由各单位按照建设运行的网络和信息系统负责",
+      "任何单位都不必承担运行责任",
+      "所有责任一律交给设备供应商"
+    ],
+    "answers": [
+      0,
+      1
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "2-050",
+    "source": {
+      "sheet": "资料2",
+      "row": 50
+    },
+    "originalPrompt": "网络安全事件的信息共享是指（ ）。",
+    "prompt": "网络安全事件的信息共享是指（ ）。",
+    "category": "法规与应急",
+    "references": [
+      "https://www.cac.gov.cn/2017-06/27/c_1121220113.htm"
+    ],
+    "originalAnswers": [
+      {
+        "text": "国家网信部门统筹协调有关部门建立网络安全信息共享机制，及时汇总、研判、共享、发布网络安全威胁、漏洞、事件等信息的过程",
+        "letter": "A"
+      },
+      {
+        "text": "保护工作部门与运营者以及网络安全服务机构等之间共享网络安全威胁、漏洞、事件等信息的过程",
+        "letter": "B"
+      }
+    ],
+    "status": "source",
+    "type": "multi",
+    "explanation": "信息共享应在主管部门、保护部门、运营者及服务机构之间按规则进行，不是公开敏感凭据。",
+    "options": [
+      "保护工作部门与运营者以及网络安全服务机构等之间共享网络安全威胁、漏洞、事件等信息的过程",
+      "向公众公开所有用户密码",
+      "无审查地公布所有私密日志",
+      "国家网信部门统筹协调有关部门建立网络安全信息共享机制，及时汇总、研判、共享、发布网络安全威胁、漏洞、事件等信息的过程"
+    ],
+    "answers": [
+      0,
+      3
+    ],
+    "supplement": "选项由复习站补充；字母位置与原表不同。",
+    "scored": true
+  },
+  {
+    "id": "3-001",
+    "source": {
+      "sheet": "资料3",
+      "row": 1
+    },
+    "originalPrompt": "计算机存储设备有内部存储设备和外部存储设备。",
+    "prompt": "计算机存储设备有内部存储设备和外部存储设备。",
+    "category": "系统与基础",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "内存和外存是常用分类，分别支持运行时存取与较长期保存。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-002",
+    "source": {
+      "sheet": "资料3",
+      "row": 2
+    },
+    "originalPrompt": "缓存的读取速度比内存快。",
+    "prompt": "缓存的读取速度比内存快。",
+    "category": "系统与基础",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "CPU缓存通常更靠近处理器、容量较小，其访问延迟一般低于主内存。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-003",
+    "source": {
+      "sheet": "资料3",
+      "row": 3
+    },
+    "originalPrompt": "机械硬盘由一个或者多个铝制或者玻璃制成的磁性碟片，磁头，转轴，控制电机，磁头控制器，数据转换器，接口和缓存等几个部分组成。",
+    "prompt": "机械硬盘由一个或者多个铝制或者玻璃制成的磁性碟片，磁头，转轴，控制电机，磁头控制器，数据转换器，接口和缓存等几个部分组成。",
+    "category": "系统与基础",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "机械硬盘通过磁盘、磁头与控制部件完成磁性记录读写。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-004",
+    "source": {
+      "sheet": "资料3",
+      "row": 4
+    },
+    "originalPrompt": "操作系统属于系统软件。",
+    "prompt": "操作系统属于系统软件。",
+    "category": "系统与基础",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "操作系统管理硬件资源并提供运行环境，属于系统软件。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-005",
+    "source": {
+      "sheet": "资料3",
+      "row": 5
+    },
+    "originalPrompt": "应用软件是为了某种特定的用途而被开发的软件。",
+    "prompt": "应用软件是为了某种特定的用途而被开发的软件。",
+    "category": "应用与恶意代码",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "应用软件面向办公、浏览、设计等具体用户任务。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-006",
+    "source": {
+      "sheet": "资料3",
+      "row": 6
+    },
+    "originalPrompt": "网络协议三要素指语义，语法，时序。",
+    "prompt": "网络协议三要素指语义，语法，时序。",
+    "category": "网络设备",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "协议的语法定义格式，语义定义含义，时序定义顺序与时间关系。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-007",
+    "source": {
+      "sheet": "资料3",
+      "row": 7
+    },
+    "originalPrompt": "网络协议的时序也就网络的定时。",
+    "prompt": "网络协议的时序也就网络的定时。",
+    "category": "网络设备",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "时序描述通信事件的先后与定时约束。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-008",
+    "source": {
+      "sheet": "资料3",
+      "row": 8
+    },
+    "originalPrompt": "安全服务由安全机制来实现的。",
+    "prompt": "安全服务由安全机制来实现的。",
+    "category": "系统与基础",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "加密、认证和访问控制等机制实现对应的安全服务。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-009",
+    "source": {
+      "sheet": "资料3",
+      "row": 9
+    },
+    "originalPrompt": "安全服务可在TCP/IP各层实施。",
+    "prompt": "安全服务可在TCP/IP各层实施。",
+    "category": "系统与基础",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "不同层可部署安全机制，如链路保护、IPsec和TLS。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-010",
+    "source": {
+      "sheet": "资料3",
+      "row": 10
+    },
+    "originalPrompt": "TESC有四类七个等级。",
+    "prompt": "TESC有四类七个等级。",
+    "category": "系统与基础",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "按TCSEC经典分类有D、C、B、A四类七级；原文TESC为拼写错误。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-011",
+    "source": {
+      "sheet": "资料3",
+      "row": 11
+    },
+    "originalPrompt": "密码学研究加密和解密的科学。",
+    "prompt": "密码学研究加密和解密的科学。",
+    "category": "密码与认证",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "密码学研究保护信息的密码技术，也包含认证、签名等，并不限于加解密。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-012",
+    "source": {
+      "sheet": "资料3",
+      "row": 12
+    },
+    "originalPrompt": "加密的目的就是让别人看不懂、拿不走。",
+    "prompt": "加密的目的就是让别人看不懂、拿不走。",
+    "category": "密码与认证",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      1
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "加密保护内容保密性，不能阻止密文被复制或拿走。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-013",
+    "source": {
+      "sheet": "资料3",
+      "row": 13
+    },
+    "originalPrompt": "对称加密系统加密和解密采用相同的密钥。",
+    "prompt": "对称加密系统加密和解密采用相同的密钥。",
+    "category": "密码与认证",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "对称密码使用相同或可相互推导的秘密密钥完成加解密。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-014",
+    "source": {
+      "sheet": "资料3",
+      "row": 14
+    },
+    "originalPrompt": "数字签名能鉴别发送者的身份。",
+    "prompt": "数字签名能鉴别发送者的身份。",
+    "category": "密码与认证",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "在公钥可信及私钥未泄露等前提下，签名可鉴别签名者。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-015",
+    "source": {
+      "sheet": "资料3",
+      "row": 15
+    },
+    "originalPrompt": "数字签名能能保证数据的完整性。",
+    "prompt": "数字签名能能保证数据的完整性。",
+    "category": "密码与认证",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "签名验证能发现被签名数据的修改；不是阻止数据被篡改。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-016",
+    "source": {
+      "sheet": "资料3",
+      "row": 16
+    },
+    "originalPrompt": "二层交换机依据MAC与端口地址映射表进行数据转发。",
+    "prompt": "二层交换机依据MAC与端口地址映射表进行数据转发。",
+    "category": "网络设备",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "二层交换机根据MAC地址转发表决定端口转发。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-017",
+    "source": {
+      "sheet": "资料3",
+      "row": 17
+    },
+    "originalPrompt": "三层交换技术是二层交换技术+三层转发技术。",
+    "prompt": "三层交换技术是二层交换技术+三层转发技术。",
+    "category": "网络设备",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "三层交换机同时提供二层交换与三层路由转发能力。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-018",
+    "source": {
+      "sheet": "资料3",
+      "row": 18
+    },
+    "originalPrompt": "路由分本地路由和远程路由。",
+    "prompt": "路由分本地路由和远程路由。",
+    "category": "网络设备",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [],
+    "status": "pending",
+    "originalAnswers": [],
+    "explanation": "本地/远程是特定教材口径；通常还按直连、静态与动态路由区分。缺少定义，暂不计分。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": false
+  },
+  {
+    "id": "3-019",
+    "source": {
+      "sheet": "资料3",
+      "row": 19
+    },
+    "originalPrompt": "路由器的端口用于连接网段。",
+    "prompt": "路由器的端口用于连接网段。",
+    "category": "网络设备",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "路由器接口连接不同网络，配合路由表转发流量。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-020",
+    "source": {
+      "sheet": "资料3",
+      "row": 20
+    },
+    "originalPrompt": "高级网络安全管理员在工作中应该建立健全的网络安全保护制度和责任制，保障人力、财力和物力投入。",
+    "prompt": "高级网络安全管理员在工作中应该建立健全的网络安全保护制度和责任制，保障人力、财力和物力投入。",
+    "category": "法规与应急",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "组织应建立安全责任制度并提供履职资源。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-021",
+    "source": {
+      "sheet": "资料3",
+      "row": 21
+    },
+    "originalPrompt": "高级网络安全管理员在工作中应该注意的一种软件漏洞，它使在线犯罪分子可以将客户端脚本注入其他用户查看的页面中是跨站点脚本。",
+    "prompt": "高级网络安全管理员在工作中应该注意的一种软件漏洞，它使在线犯罪分子可以将客户端脚本注入其他用户查看的页面中是跨站点脚本。",
+    "category": "应用与恶意代码",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "跨站脚本即XSS，攻击脚本在其他用户浏览器中运行。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-022",
+    "source": {
+      "sheet": "资料3",
+      "row": 22
+    },
+    "originalPrompt": "高级网络安全管理员在工作中如果发现数据安全缺陷、漏洞等风险时，应当立即采取补救措施。",
+    "prompt": "高级网络安全管理员在工作中如果发现数据安全缺陷、漏洞等风险时，应当立即采取补救措施。",
+    "category": "应用与恶意代码",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "发现漏洞风险后应及时补救，并按要求通知和报告。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-023",
+    "source": {
+      "sheet": "资料3",
+      "row": 23
+    },
+    "originalPrompt": "高级网络安全管理员在工作中如果违反本法规定或双方约定收集、使用个人信息，被搜集者有权要求删除其个人信息。",
+    "prompt": "高级网络安全管理员在工作中如果违反本法规定或双方约定收集、使用个人信息，被搜集者有权要求删除其个人信息。",
+    "category": "法规与应急",
+    "references": [
+      "https://www.ghxrd.gov.cn/zlk_0/zcfg/202511/t20251110_229733.html"
+    ],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "违法或违反约定处理个人信息时，个人可按适用规则请求删除。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-024",
+    "source": {
+      "sheet": "资料3",
+      "row": 24
+    },
+    "originalPrompt": "定期更新企业级交换机的固件和操作系统是重要的安全做法。",
+    "prompt": "定期更新企业级交换机的固件和操作系统是重要的安全做法。",
+    "category": "网络设备",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "固件更新可修复缺陷，部署前要评估并保留回退方案。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-025",
+    "source": {
+      "sheet": "资料3",
+      "row": 25
+    },
+    "originalPrompt": "VLAN（虚拟局域网）用于分隔网络流量以提高性能。",
+    "prompt": "VLAN（虚拟局域网）用于分隔网络流量以提高性能。",
+    "category": "网络设备",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "VLAN划分二层广播域，可减少无关广播并实现逻辑隔离。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-026",
+    "source": {
+      "sheet": "资料3",
+      "row": 26
+    },
+    "originalPrompt": "管理员需要定期审查和更新交换机的固件和操作系统。",
+    "prompt": "管理员需要定期审查和更新交换机的固件和操作系统。",
+    "category": "网络设备",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "定期审查版本和安全通告有助发现需修补的风险。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-027",
+    "source": {
+      "sheet": "资料3",
+      "row": 27
+    },
+    "originalPrompt": "为了保护企业级交换机免受DDoS攻击，应该部署入侵检测系统。",
+    "prompt": "为了保护企业级交换机免受DDoS攻击，应该部署入侵检测系统。",
+    "category": "网络设备",
+    "references": [
+      "https://www.nist.gov/publications/guide-intrusion-detection-and-prevention-systems-idps"
+    ],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      1
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "IDS主要检测和告警，不能单独防住DDoS；还需要阻断、限速或流量清洗。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-028",
+    "source": {
+      "sheet": "资料3",
+      "row": 28
+    },
+    "originalPrompt": "使用复杂的ACL规则并将其应用到适当的接口，可以提高路由器的访问控制的安全性。",
+    "prompt": "使用复杂的ACL规则并将其应用到适当的接口，可以提高路由器的访问控制的安全性。",
+    "category": "网络设备",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      1
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "ACL应清晰、最小权限并应用到正确接口；复杂性本身不能保证安全。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-029",
+    "source": {
+      "sheet": "资料3",
+      "row": 29
+    },
+    "originalPrompt": "在企业级路由器上，为了减少不必要的远程管理风险，应该禁用所有远程管理访问。",
+    "prompt": "在企业级路由器上，为了减少不必要的远程管理风险，应该禁用所有远程管理访问。",
+    "category": "网络设备",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      1
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "应关闭不必要的远程访问，并对必要的管理使用SSH、限制来源和认证。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-030",
+    "source": {
+      "sheet": "资料3",
+      "row": 30
+    },
+    "originalPrompt": "防火墙的默认操作方式是拒绝所有流量。",
+    "prompt": "防火墙的默认操作方式是拒绝所有流量。",
+    "category": "安全防护",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [],
+    "status": "pending",
+    "originalAnswers": [],
+    "explanation": "建议默认拒绝、按需允许，但出厂和运行默认行为因产品、方向和策略而异，缺少前提不计分。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": false
+  },
+  {
+    "id": "3-031",
+    "source": {
+      "sheet": "资料3",
+      "row": 31
+    },
+    "originalPrompt": "防火墙的吞吐量通常以每秒数据传输量（Mbps、Gbps等）单位来表示。",
+    "prompt": "防火墙的吞吐量通常以每秒数据传输量（Mbps、Gbps等）单位来表示。",
+    "category": "安全防护",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "吞吐量表示单位时间处理的数据量，常用Mbps或Gbps。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-032",
+    "source": {
+      "sheet": "资料3",
+      "row": 32
+    },
+    "originalPrompt": "验证用户的密码和用户名是双因素身份验证在防火墙安全中的应用。",
+    "prompt": "验证用户的密码和用户名是双因素身份验证在防火墙安全中的应用。",
+    "category": "密码与认证",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      1
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "用户名是身份标识，密码是知识因素；两者一起仍属于单因素验证。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-033",
+    "source": {
+      "sheet": "资料3",
+      "row": 33
+    },
+    "originalPrompt": "过滤和检测应用层协议数据是应用层防火墙的主要功能。",
+    "prompt": "过滤和检测应用层协议数据是应用层防火墙的主要功能。",
+    "category": "应用与恶意代码",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "应用层防火墙能够解析应用协议并实施相应过滤。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-034",
+    "source": {
+      "sheet": "资料3",
+      "row": 34
+    },
+    "originalPrompt": "在Linux中，iptables命令用于查看防火墙规则。",
+    "prompt": "在Linux中，iptables命令用于查看防火墙规则。",
+    "category": "安全防护",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "例如iptables -L可列出现有规则；现代系统也可能使用nftables。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-035",
+    "source": {
+      "sheet": "资料3",
+      "row": 35
+    },
+    "originalPrompt": "防火墙的主要目的是控制网络流量并保护网络安全。",
+    "prompt": "防火墙的主要目的是控制网络流量并保护网络安全。",
+    "category": "安全防护",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "防火墙按规则控制网络边界流量。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-036",
+    "source": {
+      "sheet": "资料3",
+      "row": 36
+    },
+    "originalPrompt": "\"应用代理\"（Application Proxy）在防火墙中的作用是充当客户端和目标服务器之间的中间人，验证和过滤流量。",
+    "prompt": "\"应用代理\"（Application Proxy）在防火墙中的作用是充当客户端和目标服务器之间的中间人，验证和过滤流量。",
+    "category": "应用与恶意代码",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "应用代理终止或转发应用连接，能够验证和过滤应用流量。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-037",
+    "source": {
+      "sheet": "资料3",
+      "row": 37
+    },
+    "originalPrompt": "在安全隔离网闸的基本配置中， VPN用于加密网络流量，以确保数据的安全传输。",
+    "prompt": "在安全隔离网闸的基本配置中， VPN用于加密网络流量，以确保数据的安全传输。",
+    "category": "密码与认证",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [],
+    "status": "pending",
+    "originalAnswers": [],
+    "explanation": "隔离网闸强调受控隔离交换，不应把VPN加密当成其统一基本配置；需具体产品和场景。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": false
+  },
+  {
+    "id": "3-038",
+    "source": {
+      "sheet": "资料3",
+      "row": 38
+    },
+    "originalPrompt": "在安全隔离网闸上，create vpn [vpn-name]命令用于创建一个VPN（虚拟专用网络）连接。",
+    "prompt": "在安全隔离网闸上，create vpn [vpn-name]命令用于创建一个VPN（虚拟专用网络）连接。",
+    "category": "安全防护",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [],
+    "status": "pending",
+    "originalAnswers": [],
+    "explanation": "create vpn不是通用网闸命令，缺少产品型号和版本无法判断。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": false
+  },
+  {
+    "id": "3-039",
+    "source": {
+      "sheet": "资料3",
+      "row": 39
+    },
+    "originalPrompt": "签名检测和行为检测是入侵检测系统（IDS）的两种检测方法。",
+    "prompt": "签名检测和行为检测是入侵检测系统（IDS）的两种检测方法。",
+    "category": "密码与认证",
+    "references": [
+      "https://www.nist.gov/publications/guide-intrusion-detection-and-prevention-systems-idps"
+    ],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "特征检测识别已知模式，行为检测发现偏离正常模式的活动。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-040",
+    "source": {
+      "sheet": "资料3",
+      "row": 40
+    },
+    "originalPrompt": "蜜罐技术通过在网络上部署虚拟或伪装系统来吸引潜在攻击者，并监控其活动来提高安全性。",
+    "prompt": "蜜罐技术通过在网络上部署虚拟或伪装系统来吸引潜在攻击者，并监控其活动来提高安全性。",
+    "category": "安全防护",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "蜜罐通过诱导系统收集攻击行为，但须避免成为攻击其他系统的跳板。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-041",
+    "source": {
+      "sheet": "资料3",
+      "row": 41
+    },
+    "originalPrompt": "IDS的基本结构中，传感器通常部署在内部网络中的关键位置。",
+    "prompt": "IDS的基本结构中，传感器通常部署在内部网络中的关键位置。",
+    "category": "安全防护",
+    "references": [
+      "https://www.nist.gov/publications/guide-intrusion-detection-and-prevention-systems-idps"
+    ],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "传感器应部署在能看到目标流量或事件的位置，内部关键节点是常见部署点。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-042",
+    "source": {
+      "sheet": "资料3",
+      "row": 42
+    },
+    "originalPrompt": "根据部署位置，入侵检测可以分为主机入侵检测和网络入侵检测两大类。",
+    "prompt": "根据部署位置，入侵检测可以分为主机入侵检测和网络入侵检测两大类。",
+    "category": "安全防护",
+    "references": [
+      "https://www.nist.gov/publications/guide-intrusion-detection-and-prevention-systems-idps"
+    ],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "HIDS监视主机事件，NIDS监视网络流量。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-043",
+    "source": {
+      "sheet": "资料3",
+      "row": 43
+    },
+    "originalPrompt": "入侵检测系统的部署需要考虑网络拓扑、流量模式和业务需求。",
+    "prompt": "入侵检测系统的部署需要考虑网络拓扑、流量模式和业务需求。",
+    "category": "安全防护",
+    "references": [
+      "https://www.nist.gov/publications/guide-intrusion-detection-and-prevention-systems-idps"
+    ],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "部署应结合流量可见性、拓扑、性能与业务需求。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-044",
+    "source": {
+      "sheet": "资料3",
+      "row": 44
+    },
+    "originalPrompt": "\"零信任\"（Zero Trust）是入侵防御系统的一个重要概念，它强调不信任任何用户或设备，要求验证和授权所有访问。",
+    "prompt": "\"零信任\"（Zero Trust）是入侵防御系统的一个重要概念，它强调不信任任何用户或设备，要求验证和授权所有访问。",
+    "category": "安全防护",
+    "references": [
+      "https://www.nist.gov/publications/guide-intrusion-detection-and-prevention-systems-idps"
+    ],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "零信任要求持续验证、最小权限和显式授权，是架构原则而非仅属于IPS。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-045",
+    "source": {
+      "sheet": "资料3",
+      "row": 45
+    },
+    "originalPrompt": "入侵防御系统中的\"反病毒软件\"主要用于防御恶意软件。",
+    "prompt": "入侵防御系统中的\"反病毒软件\"主要用于防御恶意软件。",
+    "category": "应用与恶意代码",
+    "references": [
+      "https://www.nist.gov/publications/guide-intrusion-detection-and-prevention-systems-idps"
+    ],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "反恶意软件能力可作为入侵防御体系的一部分。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-046",
+    "source": {
+      "sheet": "资料3",
+      "row": 46
+    },
+    "originalPrompt": "双因素身份验证是主动防御技术。",
+    "prompt": "双因素身份验证是主动防御技术。",
+    "category": "密码与认证",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "双因素验证能降低仅靠窃取口令获得访问权的风险，属于主动防护措施。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-047",
+    "source": {
+      "sheet": "资料3",
+      "row": 47
+    },
+    "originalPrompt": "云部署涉及使用云服务来托管入侵防御系统，以检测和阻止云环境中的恶意活动。",
+    "prompt": "云部署涉及使用云服务来托管入侵防御系统，以检测和阻止云环境中的恶意活动。",
+    "category": "应用与恶意代码",
+    "references": [
+      "https://www.nist.gov/publications/guide-intrusion-detection-and-prevention-systems-idps"
+    ],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "可将防护组件部署在云环境中监测和防御恶意活动。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-048",
+    "source": {
+      "sheet": "资料3",
+      "row": 48
+    },
+    "originalPrompt": "在无线网络中，如果你想隐藏SSID，以增加网络的安全性，你应该禁用DHCP。",
+    "prompt": "在无线网络中，如果你想隐藏SSID，以增加网络的安全性，你应该禁用DHCP。",
+    "category": "安全防护",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      1
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "隐藏SSID与DHCP地址分配无关；隐藏名称本身也不是可靠安全边界。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-049",
+    "source": {
+      "sheet": "资料3",
+      "row": 49
+    },
+    "originalPrompt": "启用WPA3加密可以帮助防止无线路由器遭受暴力破解密码的攻击。",
+    "prompt": "启用WPA3加密可以帮助防止无线路由器遭受暴力破解密码的攻击。",
+    "category": "网络设备",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "WPA3-Personal的SAE机制减轻离线口令猜测风险，仍需强凭证与合理配置。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-050",
+    "source": {
+      "sheet": "资料3",
+      "row": 50
+    },
+    "originalPrompt": "端口转发功能可以帮助无线AC识别和应对恶意的入侵尝试。",
+    "prompt": "端口转发功能可以帮助无线AC识别和应对恶意的入侵尝试。",
+    "category": "网络设备",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      1
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "端口转发用于把流量映射到内部服务，本身不负责入侵检测。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-051",
+    "source": {
+      "sheet": "资料3",
+      "row": 51
+    },
+    "originalPrompt": "固件升级功能可以将无线AP的固件保持最新。",
+    "prompt": "固件升级功能可以将无线AP的固件保持最新。",
+    "category": "安全防护",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "固件升级安装新版本，需核验来源并做好备份。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-052",
+    "source": {
+      "sheet": "资料3",
+      "row": 52
+    },
+    "originalPrompt": "网络入侵防御系统（IPS）的主要功能是自动隔离恶意流量。",
+    "prompt": "网络入侵防御系统（IPS）的主要功能是自动隔离恶意流量。",
+    "category": "应用与恶意代码",
+    "references": [
+      "https://www.nist.gov/publications/guide-intrusion-detection-and-prevention-systems-idps"
+    ],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "网络IPS可在线检测并阻断恶意流量；具体动作取决于策略。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-053",
+    "source": {
+      "sheet": "资料3",
+      "row": 53
+    },
+    "originalPrompt": "使用漏洞扫描器时，start scan命令用于启动漏洞扫描。",
+    "prompt": "使用漏洞扫描器时，start scan命令用于启动漏洞扫描。",
+    "category": "应用与恶意代码",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [],
+    "status": "pending",
+    "originalAnswers": [],
+    "explanation": "start scan只是示意写法，扫描器产品和版本不同，缺少上下文无法确定。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": false
+  },
+  {
+    "id": "3-054",
+    "source": {
+      "sheet": "资料3",
+      "row": 54
+    },
+    "originalPrompt": "线程的关键状态有运行、就绪和等待态由于线程不是资源的拥有单位，挂起状态对线程来说是没有意义的。",
+    "prompt": "线程的关键状态有运行、就绪和等待态由于线程不是资源的拥有单位，挂起状态对线程来说是没有意义的。",
+    "category": "系统与基础",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      1
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "线程也可被挂起或恢复，是否拥有资源不能推出挂起毫无意义。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-055",
+    "source": {
+      "sheet": "资料3",
+      "row": 55
+    },
+    "originalPrompt": "系统处于安全状态肯定不会是死锁状态，死锁状态肯定是不安全状态，不安全状态不一定是死锁状态。",
+    "prompt": "系统处于安全状态肯定不会是死锁状态，死锁状态肯定是不安全状态，不安全状态不一定是死锁状态。",
+    "category": "系统与基础",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "安全状态存在安全执行序列；不安全表示可能死锁，并非已发生死锁。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-056",
+    "source": {
+      "sheet": "资料3",
+      "row": 56
+    },
+    "originalPrompt": "我国信息系统安全等级保护共分五级。",
+    "prompt": "我国信息系统安全等级保护共分五级。",
+    "category": "法规与应急",
+    "references": [
+      "https://www.ghxrd.gov.cn/zlk_0/zcfg/202511/t20251110_229733.html"
+    ],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "我国网络安全等级保护通常划分为第一至第五级。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-057",
+    "source": {
+      "sheet": "资料3",
+      "row": 57
+    },
+    "originalPrompt": "在使用浏览器时关闭电脑接收cookie的选项,避免受到cookie的追踪。",
+    "prompt": "在使用浏览器时关闭电脑接收cookie的选项,避免受到cookie的追踪。",
+    "category": "应用与恶意代码",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "禁用或限制Cookie可减少部分Cookie跟踪，但不能阻止其他跟踪技术，且可能影响登录。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-058",
+    "source": {
+      "sheet": "资料3",
+      "row": 58
+    },
+    "originalPrompt": "除了直接攻击手机本身的漏洞之外，特洛伊木马型恶意代码也移动终端的恶意代码的攻击方式之一。",
+    "prompt": "除了直接攻击手机本身的漏洞之外，特洛伊木马型恶意代码也移动终端的恶意代码的攻击方式之一。",
+    "category": "应用与恶意代码",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "移动终端同样可能遭木马伪装、诱导安装及权限滥用。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-059",
+    "source": {
+      "sheet": "资料3",
+      "row": 59
+    },
+    "originalPrompt": "Windows 10的专业版和企业版中内置了 Hyper-V功能（客户端Hyper-V ）。",
+    "prompt": "Windows 10的专业版和企业版中内置了 Hyper-V功能（客户端Hyper-V ）。",
+    "category": "系统与基础",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "Windows 10专业版和企业版提供客户端Hyper-V，还需满足硬件虚拟化条件。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-060",
+    "source": {
+      "sheet": "资料3",
+      "row": 60
+    },
+    "originalPrompt": "NTFS （New Technology File System）是一种文件系统格式。",
+    "prompt": "NTFS （New Technology File System）是一种文件系统格式。",
+    "category": "系统与基础",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "NTFS为Windows常用文件系统，支持权限、日志等功能。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-061",
+    "source": {
+      "sheet": "资料3",
+      "row": 61
+    },
+    "originalPrompt": "FusionCompute中的虚拟机一块网卡只能加入一个安全组中。",
+    "prompt": "FusionCompute中的虚拟机一块网卡只能加入一个安全组中。",
+    "category": "安全防护",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [],
+    "status": "pending",
+    "originalAnswers": [],
+    "explanation": "安全组约束依FusionCompute版本与网卡模式变化，题目未给版本，暂不计分。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": false
+  },
+  {
+    "id": "3-062",
+    "source": {
+      "sheet": "资料3",
+      "row": 62
+    },
+    "originalPrompt": "ipsec vpn支持以下策略和路由引流两种引流方式。",
+    "prompt": "ipsec vpn支持以下策略和路由引流两种引流方式。",
+    "category": "网络设备",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "IPsec VPN常见策略型与路由型两类流量引导方式，依产品实现配置。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-063",
+    "source": {
+      "sheet": "资料3",
+      "row": 63
+    },
+    "originalPrompt": "弱点知识是对真实系统中出现过并报告的软件弱点的描述。",
+    "prompt": "弱点知识是对真实系统中出现过并报告的软件弱点的描述。",
+    "category": "法规与应急",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "弱点知识记录弱点类型、成因及影响，可支持识别和修复。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-064",
+    "source": {
+      "sheet": "资料3",
+      "row": 64
+    },
+    "originalPrompt": "Process Explorer 是一款进程管理的工具，可用来方便查看各种 系统进程。",
+    "prompt": "Process Explorer 是一款进程管理的工具，可用来方便查看各种 系统进程。",
+    "category": "系统与基础",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "Process Explorer可查看进程、句柄及模块等信息。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-065",
+    "source": {
+      "sheet": "资料3",
+      "row": 65
+    },
+    "originalPrompt": "Filemon 用于实时监视文件系统，它可以监视应用程序进行的2 文件读写操作，记录所有与文件一切相关操作。",
+    "prompt": "Filemon 用于实时监视文件系统，它可以监视应用程序进行的2 文件读写操作，记录所有与文件一切相关操作。",
+    "category": "应用与恶意代码",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "Filemon用于监视文件系统活动，现有Process Monitor提供类似能力；原文多余数字2不影响理解。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-066",
+    "source": {
+      "sheet": "资料3",
+      "row": 66
+    },
+    "originalPrompt": "下列各项中不属于信息存储技术按其存储原理分类的是逻辑存储技术 。",
+    "prompt": "下列各项中不属于信息存储技术按其存储原理分类的是逻辑存储技术 。",
+    "category": "系统与基础",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "按存储原理通常区分磁、光、半导体等，逻辑组织方式属于另一分类维度。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-067",
+    "source": {
+      "sheet": "资料3",
+      "row": 67
+    },
+    "originalPrompt": "I-WORM.KLEZ.H不是特洛伊木马的常见名字。",
+    "prompt": "I-WORM.KLEZ.H不是特洛伊木马的常见名字。",
+    "category": "应用与恶意代码",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "Klez名称中的WORM表示蠕虫类别，不能因恶意性就归为木马。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-068",
+    "source": {
+      "sheet": "资料3",
+      "row": 68
+    },
+    "originalPrompt": "高级网络安全管理员在工作中应该建立健全的网络安全保护制度和责任制，保障人力、财力和物力投入。",
+    "prompt": "高级网络安全管理员在工作中应该建立健全的网络安全保护制度和责任制，保障人力、财力和物力投入。",
+    "category": "法规与应急",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "与资料3第20题重复，保留原行。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-069",
+    "source": {
+      "sheet": "资料3",
+      "row": 69
+    },
+    "originalPrompt": "过程性目标是为了完成方向性目标而制定的具体实施路径。",
+    "prompt": "过程性目标是为了完成方向性目标而制定的具体实施路径。",
+    "category": "职业道德",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "过程目标描述推进方向目标的具体路径和阶段任务。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-070",
+    "source": {
+      "sheet": "资料3",
+      "row": 70
+    },
+    "originalPrompt": "应用程序安全性代码审查可以帮助开发人员在开发过程中识别和解决漏洞。",
+    "prompt": "应用程序安全性代码审查可以帮助开发人员在开发过程中识别和解决漏洞。",
+    "category": "应用与恶意代码",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "代码审查可发现不安全输入处理和权限问题等缺陷。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-071",
+    "source": {
+      "sheet": "资料3",
+      "row": 71
+    },
+    "originalPrompt": "安全架构设计与评审可以帮助开发人员在开发过程中识别和解决漏洞。",
+    "prompt": "安全架构设计与评审可以帮助开发人员在开发过程中识别和解决漏洞。",
+    "category": "应用与恶意代码",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "架构评审可在设计阶段发现信任边界和权限设计问题。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-072",
+    "source": {
+      "sheet": "资料3",
+      "row": 72
+    },
+    "originalPrompt": "如果要启用MAC地址过滤以允许特定设备连接到无线接入点，应该使用 set mac-authentication。",
+    "prompt": "如果要启用MAC地址过滤以允许特定设备连接到无线接入点，应该使用 set mac-authentication。",
+    "category": "网络设备",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [],
+    "status": "pending",
+    "originalAnswers": [],
+    "explanation": "MAC认证命令依设备厂商和版本；该写法不能作为通用命令，暂不计分。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": false
+  },
+  {
+    "id": "3-073",
+    "source": {
+      "sheet": "资料3",
+      "row": 73
+    },
+    "originalPrompt": "要查看无线接入点的当前连接客户端列表，应该使用display connected clients。",
+    "prompt": "要查看无线接入点的当前连接客户端列表，应该使用display connected clients。",
+    "category": "安全防护",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [],
+    "status": "pending",
+    "originalAnswers": [],
+    "explanation": "display connected clients不是通用无线设备命令，需型号与手册核对。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": false
+  },
+  {
+    "id": "3-074",
+    "source": {
+      "sheet": "资料3",
+      "row": 74
+    },
+    "originalPrompt": "使用set authentication-mode ead命令配置EAD以要求连接设备通过身份验证",
+    "prompt": "使用set authentication-mode ead命令配置EAD以要求连接设备通过身份验证",
+    "category": "密码与认证",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [],
+    "status": "pending",
+    "originalAnswers": [],
+    "explanation": "EAD部署和认证方式取决于厂商，该示意命令缺少上下文。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": false
+  },
+  {
+    "id": "3-075",
+    "source": {
+      "sheet": "资料3",
+      "row": 75
+    },
+    "originalPrompt": "要查看当前PORTAL认证状态和日志信息，应该使用display portal-status命令",
+    "prompt": "要查看当前PORTAL认证状态和日志信息，应该使用display portal-status命令",
+    "category": "安全防护",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [],
+    "status": "pending",
+    "originalAnswers": [],
+    "explanation": "PORTAL状态和日志查看命令因平台不同，不能据此作通用判断。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": false
+  },
+  {
+    "id": "3-076",
+    "source": {
+      "sheet": "资料3",
+      "row": 76
+    },
+    "originalPrompt": "VNC通常使用TLS加密方式。",
+    "prompt": "VNC通常使用TLS加密方式。",
+    "category": "密码与认证",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      1
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "传统VNC实现并不普遍默认TLS，需加密扩展、安全隧道或支持TLS的实现。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-077",
+    "source": {
+      "sheet": "资料3",
+      "row": 77
+    },
+    "originalPrompt": "系统远程管理服务关闭则不能进行远程桌面访问。",
+    "prompt": "系统远程管理服务关闭则不能进行远程桌面访问。",
+    "category": "系统与基础",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "停用提供远程桌面的相关服务通常使对应远程桌面连接不可用。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-078",
+    "source": {
+      "sheet": "资料3",
+      "row": 78
+    },
+    "originalPrompt": "Windows中可以通过组策略限制远程用户的访问权限。",
+    "prompt": "Windows中可以通过组策略限制远程用户的访问权限。",
+    "category": "系统与基础",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "组策略可配置远程桌面授权与用户权限。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-079",
+    "source": {
+      "sheet": "资料3",
+      "row": 79
+    },
+    "originalPrompt": "一般应用系统都存在漏洞。",
+    "prompt": "一般应用系统都存在漏洞。",
+    "category": "应用与恶意代码",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "一般系统可能存在已知或未知缺陷，应持续评估修复；并非能证明每个系统一定存在漏洞。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-080",
+    "source": {
+      "sheet": "资料3",
+      "row": 80
+    },
+    "originalPrompt": "几乎所有的关系数据库系统和相应的SQL语言都面临SQL注入的潜在威胁 。",
+    "prompt": "几乎所有的关系数据库系统和相应的SQL语言都面临SQL注入的潜在威胁 。",
+    "category": "应用与恶意代码",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "SQL注入源于应用不安全构造查询，使用关系数据库并不会自动免除此风险。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-081",
+    "source": {
+      "sheet": "资料3",
+      "row": 81
+    },
+    "originalPrompt": "通过对任意目录附加“…/”，或者是在有特殊意义的目录附加“…/”，或者是附加“…/”的一些变形，如“…\\”或“…//”甚至其编码，都可能导致目录遍历。",
+    "prompt": "通过对任意目录附加“…/”，或者是在有特殊意义的目录附加“…/”，或者是附加“…/”的一些变形，如“…\\”或“…//”甚至其编码，都可能导致目录遍历。",
+    "category": "应用与恶意代码",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      1
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "通常目录遍历是两个点../及其编码变形；原题写成三个点…/，按字面不准确。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-082",
+    "source": {
+      "sheet": "资料3",
+      "row": 82
+    },
+    "originalPrompt": "包过滤防火墙通常根据数据包源地址、目的地址、端口号和协议类型等标志设置访问控制列表实施对数据包的过滤。",
+    "prompt": "包过滤防火墙通常根据数据包源地址、目的地址、端口号和协议类型等标志设置访问控制列表实施对数据包的过滤。",
+    "category": "网络设备",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "包过滤以网络和传输层字段为主要条件进行访问控制。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-083",
+    "source": {
+      "sheet": "资料3",
+      "row": 83
+    },
+    "originalPrompt": "等保备案是指企业在互联网端的业务有涉及到收集用户敏感信息的活动，互联网端是指PC端、APP端、小程序等运作形式，凡是有涉及到以上内容均需办理等保备案事宜。",
+    "prompt": "等保备案是指企业在互联网端的业务有涉及到收集用户敏感信息的活动，互联网端是指PC端、APP端、小程序等运作形式，凡是有涉及到以上内容均需办理等保备案事宜。",
+    "category": "法规与应急",
+    "references": [
+      "https://www.ghxrd.gov.cn/zlk_0/zcfg/202511/t20251110_229733.html"
+    ],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      1
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "等保定级备案依系统类型、等级和规定确定，不能仅以是否在互联网收集敏感信息判断。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-084",
+    "source": {
+      "sheet": "资料3",
+      "row": 84
+    },
+    "originalPrompt": "数字水印技术用信号处理的方法在数字化的多媒体数据中嵌入隐蔽的标记，这种标记通常是不可见的，只有通过专用的检测器或阅读器才能提取。",
+    "prompt": "数字水印技术用信号处理的方法在数字化的多媒体数据中嵌入隐蔽的标记，这种标记通常是不可见的，只有通过专用的检测器或阅读器才能提取。",
+    "category": "密码与认证",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "数字水印嵌入标记，通常不可见，也存在可见水印，提取方法随实现不同。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-085",
+    "source": {
+      "sheet": "资料3",
+      "row": 85
+    },
+    "originalPrompt": "从技术角度来讲，“可信的”未必意味着对用户而言是“值得信赖的”。",
+    "prompt": "从技术角度来讲，“可信的”未必意味着对用户而言是“值得信赖的”。",
+    "category": "密码与认证",
+    "references": [],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [
+      0
+    ],
+    "status": "supplemented",
+    "originalAnswers": [],
+    "explanation": "技术信任属性与用户对系统利益和行为的信赖并非同一概念。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": true
+  },
+  {
+    "id": "3-086",
+    "source": {
+      "sheet": "资料3",
+      "row": 86
+    },
+    "originalPrompt": "网络安全事件应对的工作原则中，坚持统一指挥、密切协同、快速反应、科学处置是指建立健全跨部门联动处置机制，及时汇总、研判、共享、发布网络安全威胁、漏洞、事件等信息。",
+    "prompt": "网络安全事件应对的工作原则中，坚持统一指挥、密切协同、快速反应、科学处置是指建立健全跨部门联动处置机制，及时汇总、研判、共享、发布网络安全威胁、漏洞、事件等信息。",
+    "category": "法规与应急",
+    "references": [
+      "https://www.cac.gov.cn/2017-06/27/c_1121220113.htm"
+    ],
+    "type": "judge",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answers": [],
+    "status": "pending",
+    "originalAnswers": [],
+    "explanation": "原句把协同处置与信息共享具体机制混在一起，缺少明确考核口径，暂不计分。",
+    "supplement": "原表未提供判断题答案；本答案为补充参考。",
+    "scored": false
+  }
+]

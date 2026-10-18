@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="zh-CN">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#10263a"><title>网安题库 · 网络安全复习</title><meta name="description" content="网络安全题库练习、错题复习与限时模拟考试。"><link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cpath fill='%2310263a' d='M16 2 29 7v9c0 7-9 13-13 15C12 29 3 23 3 16V7Z'/%3E%3Cpath fill='none' stroke='%234be1ba' stroke-width='3' d='m9 16 5 5 9-11'/%3E%3C/svg%3E"><link rel="stylesheet" href="styles.css"><script src="app.js" defer></script></head>
+<body>
+<div class="layout">
+<aside class="sidebar">
+<a class="brand" href="#practice"><span class="brand-icon">盾</span><span>网安题库<small>CYBERSECURITY STUDY</small></span></a>
+<div class="side-label">我的复习</div>
+<nav aria-label="主导航">
+<button data-view="practice" class="nav active"><span>01</span>题库练习</button>
+<button data-view="wrong" class="nav"><span>02</span>错题复习<b id="wrongBadge">0</b></button>
+<button data-view="exam" class="nav"><span>03</span>模拟考试</button>
+<button data-view="history" class="nav"><span>04</span>考试记录</button>
+<button data-view="about" class="nav"><span>05</span>资料说明</button>
+</nav>
+<div class="side-bottom"><span class="local-tag">本地复习</span><p>学习记录保存在当前浏览器。</p><p class="source-file">网络安全复习资料(1).xlsx</p></div>
+</aside>
+<main>
+<header class="topbar"><div><span class="eyebrow">网络安全管理员 / 复习工作台</span><h1 id="pageTitle">题库练习</h1></div><div class="top-actions"><button id="resumeExam" class="secondary hidden">继续考试</button><span class="edition">236 道原题 · 完整保留</span></div></header>
+<div id="storageWarning" class="notice hidden" role="alert"></div>
+<section class="stats" aria-label="复习进度">
+<div><span>题库总量</span><strong id="totalStat">236<small>题</small></strong></div>
+<div><span>已练习</span><strong id="learnedStat">0<small>题</small></strong></div>
+<div><span>练习正确率</span><strong id="accuracyStat">—</strong></div>
+<div><span>待复习错题</span><strong id="wrongStat">0<small>题</small></strong></div>
+</section>
+<section id="practiceView" class="view">
+<div class="practice-toolbar card"><div class="field"><label for="typeFilter">题型</label><select id="typeFilter"><option value="">全部题型</option><option value="single">单选题 · 100</option><option value="multi">多选题 · 50</option><option value="judge">判断题 · 86</option></select></div><div class="field"><label for="categoryFilter">知识模块</label><select id="categoryFilter"><option value="">全部模块</option></select></div><div class="field search"><label for="searchInput">搜索题目</label><input id="searchInput" placeholder="如：防火墙、数字签名" type="search"></div><div class="field"><label for="orderFilter">练习顺序</label><select id="orderFilter"><option value="random" selected>随机练习</option><option value="ordered">顺序练习</option></select></div><button class="primary" data-action="reshuffle">刷新题序</button></div>
+<div class="workgrid"><div id="questionPanel"></div><aside class="card navigator"><div class="section-head"><h2>答题卡</h2><span id="poolCount"></span></div><div class="legend"><span><i class="done"></i>已掌握</span><span><i class="wrong"></i>待复习</span><span><i class="pending"></i>待核实</span></div><div id="questionGrid" class="number-grid" aria-label="练习题号"></div><div class="navigator-note"><strong>多选题需选出所有正确项</strong><p>提交后查看答案与解析，再前往下一题。</p></div></aside></div>
+</section>
+<section id="examView" class="view hidden"></section>
+<section id="historyView" class="view hidden"></section>
+<section id="aboutView" class="view hidden"></section>
+<footer><span>网络安全复习资料 · 单选 / 多选 / 判断</span><span>练习选项已补充，原始答案可在解析中核对</span></footer>
+</main></div>
+<div id="toast" role="status" class="toast hidden"></div>
+<dialog id="confirmDialog"><form method="dialog"><h2 id="dialogTitle">确认操作</h2><p id="dialogText"></p><div class="dialog-actions"><button value="cancel" class="secondary">取消</button><button value="ok" class="primary">确认</button></div></form></dialog>
+<noscript>请启用浏览器 JavaScript 以使用练习和考试功能。</noscript>
+</body></html>
